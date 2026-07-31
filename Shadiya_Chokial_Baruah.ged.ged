@@ -1,0 +1,8725 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS AIO64-6.0.8--1
+2 NAME Gramps
+1 DATE 9 JUL 2026
+2 TIME 11:27:08
+1 SUBM @SUBM@
+1 FILE C:\Users\Prasanta\Shadiya_Chokial_Baruah.ged.ged
+1 COPR Copyright (c) 2026 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+0 @I0000@ INDI
+1 NAME প্ৰশান্ত কুমাৰ /বৰুৱা/
+2 TYPE birth
+2 GIVN প্ৰশান্ত কুমাৰ
+2 SPFX বৰুৱা
+2 NICK চানা
+1 SEX M
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0000@
+1 OBJE @O0112@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:33:47
+0 @I0001@ INDI
+1 NAME ৰুপা /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰুপা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0117@
+2 PEDI birth
+1 FAMS @F0000@
+1 OBJE @O0113@
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 11:23:52
+0 @I0002@ INDI
+1 NAME ৰশ্মিৰেখা /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰশ্মিৰেখা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0000@
+2 PEDI birth
+1 FAMS @F0003@
+1 OBJE @O0193@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:17:41
+0 @I0003@ INDI
+1 NAME ইক্ষাকু প্ৰতীম /বৰুৱা/
+2 TYPE birth
+2 GIVN ইক্ষাকু প্ৰতীম
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0000@
+2 PEDI birth
+1 FAMS @F0099@
+1 OBJE @O0058@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:29:15
+0 @I0004@ INDI
+1 NAME শৰত কুমাৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN শৰত কুমাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0100@
+1 OBJE @O0170@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:29:53
+0 @I0005@ INDI
+1 NAME লোকেশ্বৰী২ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN লোকেশ্বৰী২
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0177@
+2 PEDI birth
+1 FAMS @F0101@
+1 OBJE @O0263@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 07:10:16
+0 @I0006@ INDI
+1 NAME অনন্ত কুমাৰ /বৰুৱা/
+2 TYPE birth
+2 GIVN অনন্ত কুমাৰ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0002@
+1 OBJE @O0074@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:56:22
+0 @I0007@ INDI
+1 NAME কুমকুম /কাকতী/
+2 TYPE birth
+2 GIVN কুমকুম
+2 SPFX কাকতী
+1 SEX F
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0006@
+1 OBJE @O0371@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 12:20:25
+0 @I0008@ INDI
+1 NAME তুলতুল /বৰুৱা/
+2 TYPE birth
+2 GIVN তুলতুল
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0008@
+1 OBJE @O0117@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:56:22
+0 @I0009@ INDI
+1 NAME বুলবুল /কাকতী/
+2 TYPE birth
+2 GIVN বুলবুল
+2 SPFX কাকতী
+1 SEX F
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0009@
+1 OBJE @O0011@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:56:22
+0 @I0010@ INDI
+1 NAME সুমন্ত /বৰুৱা/
+2 TYPE birth
+2 GIVN সুমন্ত
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0005@
+1 OBJE @O0119@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:56:22
+0 @I0011@ INDI
+1 NAME অপৰাজিতা /হাজৰীকা/
+2 TYPE birth
+2 GIVN অপৰাজিতা
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0010@
+1 OBJE @O0121@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:56:22
+0 @I0012@ INDI
+1 NAME অৰুণিমা /বৰুৱা/
+2 TYPE birth
+2 GIVN অৰুণিমা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0185@
+2 PEDI birth
+1 FAMS @F0002@
+1 OBJE @O0372@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:03:04
+0 @I0013@ INDI
+1 NAME আয়ুস্মিতা /চৌধুৰী/
+2 TYPE birth
+2 GIVN আয়ুস্মিতা
+2 SPFX চৌধুৰী
+1 SEX F
+1 FAMC @F0002@
+2 PEDI birth
+1 FAMS @F0004@
+1 OBJE @O0020@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:57:37
+0 @I0014@ INDI
+1 NAME নিশিপৰ্ণা /দুৱৰা/
+2 TYPE birth
+2 GIVN নিশিপৰ্ণা
+2 SPFX দুৱৰা
+1 SEX F
+1 FAMC @F0002@
+2 PEDI birth
+1 FAMS @F0115@
+1 OBJE @O0048@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:49:58
+0 @I0015@ INDI
+1 NAME দৰ্শনা /বায়ন/
+2 TYPE birth
+2 GIVN দৰ্শনা
+2 SPFX বায়ন
+1 SEX F
+1 FAMC @F0002@
+2 PEDI birth
+1 FAMS @F0116@
+1 OBJE @O0235@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:56:55
+0 @I0016@ INDI
+1 NAME দুৰ্লভ প্ৰতীম /বৰুৱা/
+2 TYPE birth
+2 GIVN দুৰ্লভ প্ৰতীম
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0118@
+2 PEDI birth
+1 FAMS @F0003@
+1 OBJE @O0192@
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 18:10:13
+0 @I0017@ INDI
+1 NAME আৰণ্যক /বৰুৱা/
+2 TYPE birth
+2 GIVN আৰণ্যক
+2 SPFX বৰুৱা
+2 NICK চমচম
+1 SEX M
+1 BIRT
+2 DATE ২৭-০৩-২০২১
+1 FAMC @F0003@
+2 PEDI birth
+1 RESI
+2 DATE ১৮-০৬-২০২৬
+2 ADDR জাগৃতি পথ, বৰদলৈ নগৰ।
+3 CONT জাগৃতি পথ
+3 CONT তিনিচুকীয়া
+3 CONT অসম
+3 CONT ৭৮৬১৫৬
+3 CONT ভাৰত
+3 ADR1 জাগৃতি পথ, বৰদলৈ নগৰ।
+3 ADR2 জাগৃতি পথ
+3 CITY তিনিচুকীয়া
+3 STAE অসম
+3 POST ৭৮৬১৫৬
+3 CTRY ভাৰত
+2 PHON ৮৪১৪০৮৩১৪০
+1 OBJE @O0087@
+1 NOTE @N0000@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 23:27:35
+0 @I0018@ INDI
+1 NAME প্ৰাণ্জল /চৌধুৰী/
+2 TYPE birth
+2 GIVN প্ৰাণ্জল
+2 SPFX চৌধুৰী
+1 SEX M
+1 FAMS @F0004@
+1 OBJE @O0021@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:58:06
+0 @I0019@ INDI
+1 NAME দিব্যানা /চৌধুৰী/
+2 TYPE birth
+2 GIVN দিব্যানা
+2 SPFX চৌধুৰী
+1 SEX F
+1 FAMC @F0004@
+2 PEDI birth
+1 OBJE @O0022@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:59:13
+0 @I0020@ INDI
+1 NAME দিপশিখা /বৰুৱা/
+2 TYPE birth
+2 GIVN দিপশিখা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0135@
+2 PEDI birth
+1 FAMS @F0005@
+1 OBJE @O0120@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:11:59
+0 @I0021@ INDI
+1 NAME অনুপল /বৰুৱা/
+2 TYPE birth
+2 GIVN অনুপল
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0005@
+2 PEDI birth
+1 OBJE @O0077@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:50:33
+0 @I0022@ INDI
+1 NAME অনুস্কা /বৰুৱা/
+2 TYPE birth
+2 GIVN অনুস্কা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0005@
+2 PEDI birth
+1 OBJE @O0079@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:52:11
+0 @I0023@ INDI
+1 NAME অজিত /কাকতী/
+2 TYPE birth
+2 GIVN অজিত
+2 SPFX কাকতী
+1 SEX M
+1 FAMC @F0132@
+2 PEDI birth
+1 FAMS @F0006@
+1 OBJE @O0006@
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:05:50
+0 @I0024@ INDI
+1 NAME ৰিতুপৰ্ণা /হাজৰীকা/
+2 TYPE birth
+2 GIVN ৰিতুপৰ্ণা
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMS @F0007@
+1 OBJE @O0236@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:57:47
+0 @I0025@ INDI
+1 NAME দেৱাশীস /কাকতী/
+2 TYPE birth
+2 GIVN দেৱাশীস
+2 SPFX কাকতী
+1 SEX M
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMS @F0111@
+1 OBJE @O0009@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:26:49
+0 @I0026@ INDI
+1 NAME উজ্জ্বল /হাজৰীকা/
+2 TYPE birth
+2 GIVN উজ্জ্বল
+2 SPFX হাজৰীকা
+1 SEX M
+1 FAMC @F0178@
+2 PEDI birth
+1 FAMS @F0007@
+1 OBJE @O0237@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 14:17:12
+0 @I0027@ INDI
+1 NAME প্ৰদীপ্ত শংকৰ /হাজৰীকা/
+2 TYPE birth
+2 GIVN প্ৰদীপ্ত শংকৰ
+2 SPFX হাজৰীকা
+1 SEX M
+1 FAMC @F0007@
+2 PEDI birth
+1 OBJE @O0198@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:31:30
+0 @I0028@ INDI
+1 NAME প্ৰণামী /হাজৰীকা/
+2 TYPE birth
+2 GIVN প্ৰণামী
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMC @F0007@
+2 PEDI birth
+1 OBJE @O0199@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:31:53
+0 @I0029@ INDI
+1 NAME ত্ৰিদিপ্ত শংকৰ /হাজৰীকা/
+2 TYPE birth
+2 GIVN ত্ৰিদিপ্ত শংকৰ
+2 SPFX হাজৰীকা
+1 SEX M
+1 FAMC @F0007@
+2 PEDI birth
+1 OBJE @O0200@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:32:19
+0 @I0030@ INDI
+1 NAME ভাৰত /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN ভাৰত
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0133@
+2 PEDI birth
+1 FAMS @F0008@
+1 OBJE @O0118@
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:15:06
+0 @I0031@ INDI
+1 NAME কৃষ্ণা /বৰা/
+2 TYPE birth
+2 GIVN কৃষ্ণা
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0008@
+2 PEDI birth
+1 FAMS @F0015@
+1 OBJE @O0060@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:32:24
+0 @I0032@ INDI
+1 NAME নন্দন /বৰুৱা/
+2 TYPE birth
+2 GIVN নন্দন
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0008@
+2 PEDI birth
+1 FAMS @F0051@
+1 OBJE @O0195@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:19:38
+0 @I0034@ INDI
+1 NAME অনিমেষ /কাকতী/
+2 TYPE birth
+2 GIVN অনিমেষ
+2 SPFX কাকতী
+1 SEX M
+1 FAMC @F0009@
+2 PEDI birth
+1 FAMS @F0014@
+1 OBJE @O0007@
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:11:51
+0 @I0035@ INDI
+1 NAME মহেন্দ্ৰ /হাজৰীকাা/
+2 TYPE birth
+2 GIVN মহেন্দ্ৰ
+2 SPFX হাজৰীকাা
+1 SEX M
+1 FAMC @F0134@
+2 PEDI birth
+1 FAMS @F0010@
+1 OBJE @O0414@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 08:09:54
+0 @I0036@ INDI
+1 NAME জয়দ্বীপ /হাজৰীকাা/
+2 TYPE birth
+2 GIVN জয়দ্বীপ
+2 SPFX হাজৰীকাা
+1 SEX M
+1 FAMC @F0010@
+2 PEDI birth
+1 FAMS @F0011@
+1 OBJE @O0191@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:15:25
+0 @I0037@ INDI
+1 NAME বৰ্ণাভী /থাকুৰীয়া/
+2 TYPE birth
+2 GIVN বৰ্ণাভী
+2 SPFX থাকুৰীয়া
+1 SEX F
+1 FAMC @F0010@
+2 PEDI birth
+1 FAMS @F0012@
+1 OBJE @O0024@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:01:24
+0 @I0038@ INDI
+1 NAME অনিন্দিতা /হাজৰীকা/
+2 TYPE birth
+2 GIVN অনিন্দিতা
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMC @F0207@
+2 PEDI birth
+1 FAMS @F0011@
+1 OBJE @O0190@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:43:03
+0 @I0039@ INDI
+1 NAME আকাংখ্যা /হাজৰীকাা/
+2 TYPE birth
+2 GIVN আকাংখ্যা
+2 SPFX হাজৰীকাা
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 OBJE @O0270@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:07:54
+0 @I0040@ INDI
+1 NAME শিবান্যা /হাজৰীকাা/
+2 TYPE birth
+2 GIVN শিবান্যা
+2 SPFX হাজৰীকাা
+1 SEX F
+1 FAMC @F0011@
+2 PEDI birth
+1 OBJE @O0271@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:08:54
+0 @I0041@ INDI
+1 NAME শুভ্ৰজ্যোতি /থাকুৰীয়া/
+2 TYPE birth
+2 GIVN শুভ্ৰজ্যোতি
+2 SPFX থাকুৰীয়া
+1 SEX M
+1 FAMC @F0206@
+2 PEDI birth
+1 FAMS @F0012@
+1 OBJE @O0025@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:48:00
+0 @I0042@ INDI
+1 NAME ত্ৰিয়াণ /থাকুৰীয়া/
+2 TYPE birth
+2 GIVN ত্ৰিয়াণ
+2 SPFX থাকুৰীয়া
+1 SEX M
+1 FAMC @F0012@
+2 PEDI birth
+1 OBJE @O0023@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:48:52
+0 @I0043@ INDI
+1 NAME জুৰি /কাকতী/
+2 TYPE birth
+2 GIVN জুৰি
+2 SPFX কাকতী
+1 SEX F
+1 BIRT Y
+1 DEAT Y
+1 FAMS @F0014@
+1 OBJE @O0194@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:18:39
+0 @I0044@ INDI
+1 NAME পিহু /কাকতী/
+2 TYPE birth
+2 GIVN পিহু
+2 SPFX কাকতী
+1 SEX F
+1 FAMC @F0014@
+2 PEDI birth
+1 OBJE @O0010@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:45:49
+0 @I0045@ INDI
+1 NAME প্ৰত্যুষ /কাকতী/
+2 TYPE birth
+2 GIVN প্ৰত্যুষ
+2 SPFX কাকতী
+1 SEX M
+1 FAMC @F0014@
+2 PEDI birth
+1 OBJE @O0316@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 11:12:19
+0 @I0046@ INDI
+1 NAME বিজয় /বৰা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN বিজয়
+2 SPFX বৰা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0015@
+1 OBJE @O0061@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:24:38
+0 @I0047@ INDI
+1 NAME ঋষিকা /বৰা/
+2 TYPE birth
+2 GIVN ঋষিকা
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0015@
+2 PEDI birth
+1 OBJE @O0056@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:32:35
+0 @I0049@ INDI
+1 NAME লোকেশ্বৰী১ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN লোকেশ্বৰী১
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0100@
+1 OBJE @O0169@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:42:40
+0 @I0053@ INDI
+1 NAME বীণা /দত্ত/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN বীণা
+2 SPFX দত্ত
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0100@
+2 PEDI birth
+1 FAMS @F0079@
+1 OBJE @O0038@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 20:15:04
+0 @I0054@ INDI
+1 NAME অণু /বৰুৱা/
+2 TYPE birth
+2 GIVN অণু
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0128@
+1 OBJE @O0073@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 17:55:45
+0 @I0055@ INDI
+1 NAME সুস্মিতা /সিং/
+2 TYPE birth
+2 GIVN সুস্মিতা
+2 SPFX সিং
+1 SEX F
+1 FAMC @F0128@
+2 PEDI birth
+1 FAMS @F0018@
+1 OBJE @O0230@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 20:22:22
+0 @I0056@ INDI
+1 NAME অমৰজিত /বৰুৱা/
+2 TYPE birth
+2 GIVN অমৰজিত
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0128@
+2 PEDI birth
+1 FAMS @F0019@
+1 OBJE @O0080@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 17:59:18
+0 @I0057@ INDI
+1 NAME পংকজ /সিং/
+2 TYPE birth
+2 GIVN পংকজ
+2 SPFX সিং
+1 SEX M
+1 FAMS @F0018@
+1 OBJE @O0231@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:45:48
+0 @I0058@ INDI
+1 NAME সোনাল /সিং/
+2 TYPE birth
+2 GIVN সোনাল
+2 SPFX সিং
+1 SEX F
+1 FAMC @F0018@
+2 PEDI birth
+1 OBJE @O0203@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:35:05
+0 @I0059@ INDI
+1 NAME শানামা /সিং/
+2 TYPE birth
+2 GIVN শানামা
+2 SPFX সিং
+1 SEX F
+1 FAMC @F0018@
+2 PEDI birth
+1 OBJE @O0202@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:34:44
+0 @I0060@ INDI
+1 NAME সুজাতা /বৰুৱা/
+2 TYPE birth
+2 GIVN সুজাতা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0019@
+1 OBJE @O0232@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:46:53
+0 @I0061@ INDI
+1 NAME শিৱাংশ /বৰুৱা/
+2 TYPE birth
+2 GIVN শিৱাংশ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0019@
+2 PEDI birth
+1 OBJE @O0201@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:33:41
+0 @I0063@ INDI
+1 NAME লক্ষীদা১ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN লক্ষীদা১
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0189@
+2 PEDI birth
+1 FAMS @F0106@
+1 OBJE @O0166@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 20:44:43
+0 @I0064@ INDI
+1 NAME মুকুল /বৰুৱা/
+2 TYPE birth
+2 GIVN মুকুল
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0106@
+2 PEDI birth
+1 FAMS @F0021@
+1 OBJE @O0123@
+1 NOTE @N0001@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 17:28:04
+0 @I0065@ INDI
+1 NAME আৰতী /দত্ত/
+2 TYPE birth
+2 GIVN আৰতী
+2 SPFX দত্ত
+1 SEX F
+1 FAMC @F0106@
+2 PEDI birth
+1 FAMS @F0024@
+1 OBJE @O0034@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:57:47
+0 @I0066@ INDI
+1 NAME অন্জনা /বৰা/
+2 TYPE birth
+2 GIVN অন্জনা
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0106@
+2 PEDI birth
+1 FAMS @F0027@
+1 OBJE @O0053@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:57:47
+0 @I0067@ INDI
+1 NAME সুষমা /বৰদলৈ/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN সুষমা
+2 SPFX বৰদলৈ
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0106@
+2 PEDI birth
+1 FAMS @F0030@
+1 OBJE @O0050@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:24:09
+0 @I0068@ INDI
+1 NAME ধৰণী /বৰুৱা/
+2 TYPE birth
+2 GIVN ধৰণী
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0106@
+2 PEDI birth
+1 FAMS @F0032@
+1 OBJE @O0125@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:57:47
+0 @I0069@ INDI
+1 NAME পৰশা /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN পৰশা
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMC @F0106@
+2 PEDI birth
+1 FAMS @F0033@
+1 OBJE @O0127@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:57:47
+0 @I0070@ INDI
+1 NAME শ্যামলী /বৰুৱা/
+2 TYPE birth
+2 GIVN শ্যামলী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0187@
+2 PEDI birth
+1 FAMS @F0021@
+1 OBJE @O0124@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 17:49:16
+0 @I0071@ INDI
+1 NAME লুণা /বৰুৱা/
+2 TYPE birth
+2 GIVN লুণা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0021@
+2 PEDI birth
+1 FAMS @F0022@
+1 OBJE @O0018@
+1 CHAN
+2 DATE 4 JUL 2026
+3 TIME 08:32:09
+0 @I0072@ INDI
+1 NAME লুপা /বৰুৱা দুগ্গল/
+2 TYPE birth
+2 GIVN লুপা
+2 SPFX বৰুৱা দুগ্গল
+1 SEX F
+1 FAMC @F0021@
+2 PEDI birth
+1 FAMS @F0023@
+1 OBJE @O0047@
+1 CHAN
+2 DATE 4 JUL 2026
+3 TIME 08:31:25
+0 @I0073@ INDI
+1 NAME ইৰফান /চিদ্দিকি/
+2 TYPE birth
+2 GIVN ইৰফান
+2 SPFX চিদ্দিকি
+1 SEX M
+1 FAMC @F0192@
+2 PEDI birth
+1 FAMS @F0022@
+1 OBJE @O0017@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 20:57:16
+0 @I0074@ INDI
+1 NAME আমাইৰা /চিদ্দিকি/
+2 TYPE birth
+2 GIVN আমাইৰা
+2 SPFX চিদ্দিকি
+1 SEX F
+1 FAMC @F0022@
+2 PEDI birth
+1 OBJE @O0016@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:53:44
+0 @I0075@ INDI
+1 NAME জিদান /চিদ্দিকি/
+2 TYPE birth
+2 GIVN জিদান
+2 SPFX চিদ্দিকি
+1 SEX M
+1 FAMC @F0022@
+2 PEDI birth
+1 OBJE @O0019@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:56:42
+0 @I0076@ INDI
+1 NAME বিকাশ /দুগ্গল/
+2 TYPE birth
+2 GIVN বিকাশ
+2 SPFX দুগ্গল
+1 SEX M
+1 FAMC @F0188@
+2 PEDI birth
+1 FAMS @F0023@
+1 OBJE @O0046@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 18:00:29
+0 @I0077@ INDI
+1 NAME তাভিছ /দুগ্গল/
+2 TYPE birth
+2 GIVN তাভিছ
+2 SPFX দুগ্গল
+1 SEX M
+1 FAMC @F0023@
+2 PEDI birth
+1 OBJE @O0045@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:25:00
+0 @I0078@ INDI
+1 NAME বুদ্ধিন /দত্ত/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN বুদ্ধিন
+2 SPFX দত্ত
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0208@
+2 PEDI birth
+1 FAMS @F0024@
+1 OBJE @O0039@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:51:47
+0 @I0079@ INDI
+1 NAME ত্ৰিদিপ /দত্ত  বৰুৱা/
+2 TYPE birth
+2 GIVN ত্ৰিদিপ
+2 SPFX দত্ত  বৰুৱা
+1 SEX M
+1 FAMC @F0024@
+2 PEDI birth
+1 FAMS @F0025@
+1 OBJE @O0029@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:08:36
+0 @I0080@ INDI
+1 NAME সুদিপ /দত্ত বৰুৱা/
+2 TYPE birth
+2 GIVN সুদিপ
+2 SPFX দত্ত বৰুৱা
+1 SEX M
+1 FAMC @F0024@
+2 PEDI birth
+1 FAMS @F0026@
+1 OBJE @O0031@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:10:10
+0 @I0081@ INDI
+1 NAME মধুমল্লিকা /দত্ত বৰুৱা/
+2 TYPE birth
+2 GIVN মধুমল্লিকা
+2 SPFX দত্ত বৰুৱা
+1 SEX F
+1 FAMC @F0200@
+2 PEDI birth
+1 FAMS @F0025@
+1 OBJE @O0030@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 09:02:22
+0 @I0082@ INDI
+1 NAME ইভিয়ান /দত্ত  বৰুৱা/
+2 TYPE birth
+2 GIVN ইভিয়ান
+2 SPFX দত্ত  বৰুৱা
+1 SEX M
+1 FAMC @F0025@
+2 PEDI birth
+1 OBJE @O0028@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:07:14
+0 @I0084@ INDI
+1 NAME স্নেহা /দত্ত বৰুৱা/
+2 TYPE birth
+2 GIVN স্নেহা
+2 SPFX দত্ত বৰুৱা
+1 SEX F
+1 FAMS @F0026@
+1 OBJE @O0032@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:10:30
+0 @I0085@ INDI
+1 NAME আৰাণ /দত্ত বৰুৱা/
+2 TYPE birth
+2 GIVN আৰাণ
+2 SPFX দত্ত বৰুৱা
+1 SEX M
+1 FAMC @F0026@
+2 PEDI birth
+1 OBJE @O0027@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:06:36
+0 @I0086@ INDI
+1 NAME দ্বীজেন /বৰা/
+2 TYPE birth
+2 GIVN দ্বীজেন
+2 SPFX বৰা
+1 SEX M
+1 FAMC @F0199@
+2 PEDI birth
+1 FAMS @F0027@
+1 OBJE @O0063@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 09:00:26
+0 @I0087@ INDI
+1 NAME পল্লৱী /বৰা/
+2 TYPE birth
+2 GIVN পল্লৱী
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0027@
+2 PEDI birth
+1 FAMS @F0028@
+1 OBJE @O0065@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:36:47
+0 @I0088@ INDI
+1 NAME নিলোতপল /বৰা/
+2 TYPE birth
+2 GIVN নিলোতপল
+2 SPFX বৰা
+1 SEX M
+1 FAMC @F0027@
+2 PEDI birth
+1 FAMS @F0029@
+1 OBJE @O0064@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:36:19
+0 @I0090@ INDI
+1 NAME অমৃত কৃষ্ণ /বৰা/
+2 TYPE birth
+2 GIVN অমৃত কৃষ্ণ
+2 SPFX বৰা
+1 SEX M
+1 FAMC @F0202@
+2 PEDI birth
+1 FAMS @F0028@
+1 OBJE @O0054@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:19:47
+0 @I0091@ INDI
+1 NAME প্ৰজ্ঞা প্ৰাপ্তি /বৰা/
+2 TYPE birth
+2 GIVN প্ৰজ্ঞা প্ৰাপ্তি
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0028@
+2 PEDI birth
+1 OBJE @O0067@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:28:47
+0 @I0092@ INDI
+1 NAME প্ৰতিষ্ঠা /বৰা/
+2 TYPE birth
+2 GIVN প্ৰতিষ্ঠা
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0028@
+2 PEDI birth
+1 OBJE @O0066@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:30:02
+0 @I0093@ INDI
+1 NAME অমৃত  ভাসিিন /বৰা/
+2 TYPE birth
+2 GIVN অমৃত  ভাসিিন
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0204@
+2 PEDI birth
+1 FAMS @F0029@
+1 OBJE @O0055@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:25:55
+0 @I0094@ INDI
+1 NAME সমৰ /বৰা/
+2 TYPE birth
+2 GIVN সমৰ
+2 SPFX বৰা
+1 SEX M
+1 FAMC @F0029@
+2 PEDI birth
+1 OBJE @O0070@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:44:35
+0 @I0096@ INDI
+1 NAME অৰুণ /বৰদলৈ/
+2 TYPE birth
+2 GIVN অৰুণ
+2 SPFX বৰদলৈ
+1 SEX M
+1 FAMC @F0198@
+2 PEDI birth
+1 FAMS @F0030@
+1 OBJE @O0049@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:58:43
+0 @I0097@ INDI
+1 NAME অনিন্দিতা /চৰকাৰ/
+2 TYPE birth
+2 GIVN অনিন্দিতা
+2 SPFX চৰকাৰ
+1 SEX F
+1 FAMC @F0030@
+2 PEDI birth
+1 FAMS @F0031@
+1 OBJE @O0013@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:49:56
+0 @I0098@ INDI
+1 NAME গৌতম /চৰকাৰ/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN গৌতম
+2 SPFX চৰকাৰ
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0197@
+2 PEDI birth
+1 FAMS @F0031@
+1 OBJE @O0014@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:55:13
+0 @I0099@ INDI
+1 NAME শিৱাংগ /চৰকাৰ/
+2 TYPE birth
+2 GIVN শিৱাংগ
+2 SPFX চৰকাৰ
+1 SEX M
+1 FAMC @F0031@
+2 PEDI birth
+1 OBJE @O0015@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:52:14
+0 @I0100@ INDI
+1 NAME মধুস্মিতা /বৰুৱা/
+2 TYPE birth
+2 GIVN মধুস্মিতা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0196@
+2 PEDI birth
+1 FAMS @F0032@
+1 OBJE @O0126@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:33:25
+0 @I0101@ INDI
+1 NAME কৌস্তভ /বৰুৱা/
+2 TYPE birth
+2 GIVN কৌস্তভ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0032@
+2 PEDI birth
+1 OBJE @O0099@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:12:25
+0 @I0102@ INDI
+1 NAME সংযুক্তা /বৰুৱা/
+2 TYPE birth
+2 GIVN সংযুক্তা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0032@
+2 PEDI birth
+1 OBJE @O0189@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:11:06
+0 @I0103@ INDI
+1 NAME দিব্যজ্যোতি /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN দিব্যজ্যোতি
+2 SPFX ৰাজখোৱা
+1 SEX M
+1 FAMC @F0195@
+2 PEDI birth
+1 FAMS @F0033@
+1 OBJE @O0128@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:59:53
+0 @I0104@ INDI
+1 NAME প্ৰণয়জ্যোতি /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN প্ৰণয়জ্যোতি
+2 SPFX ৰাজখোৱা
+1 SEX M
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0034@
+1 OBJE @O0188@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:10:23
+0 @I0105@ INDI
+1 NAME আকাংক্ষ্যা /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN আকাংক্ষ্যা
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMC @F0033@
+2 PEDI birth
+1 OBJE @O0186@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:09:22
+0 @I0106@ INDI
+1 NAME প্ৰিয়ংকা /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN প্ৰিয়ংকা
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMS @F0034@
+1 OBJE @O0187@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:10:04
+0 @I0112@ INDI
+1 NAME পাহৰাম /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN পাহৰাম
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0036@
+1 OBJE @O0248@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:27:59
+0 @I0113@ INDI
+1 NAME দময়ন্তী /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN দময়ন্তী
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0036@
+1 OBJE @O0272@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:40:37
+0 @I0115@ INDI
+1 NAME বসন্ত  কুমাৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN বসন্ত  কুমাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0101@
+1 OBJE @O0168@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:28:37
+0 @I0119@ INDI
+1 NAME গেন্ধেলা /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN গেন্ধেলা
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0041@
+2 PEDI birth
+1 FAMS @F0040@
+1 OBJE @O0288@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:26:27
+0 @I0120@ INDI
+1 NAME গেন্ধেলাৰ পৰিবাৰ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN গেন্ধেলাৰ পৰিবাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 BIRT Y
+1 FAMS @F0040@
+1 OBJE @O0382@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 08:47:11
+0 @I0121@ INDI
+1 NAME গন্ধৰাম /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN গন্ধৰাম
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0042@
+2 PEDI birth
+1 FAMS @F0041@
+1 OBJE @O0286@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:26:18
+0 @I0122@ INDI
+1 NAME গন্ধৰামৰ পৰিবাৰ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN গন্ধৰামৰ পৰিবাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0041@
+1 OBJE @O0287@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:40:00
+0 @I0123@ INDI
+1 NAME কনকেশ্বৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN কনকেশ্বৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0043@
+2 PEDI birth
+1 FAMS @F0042@
+1 OBJE @O0284@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:25:41
+0 @I0124@ INDI
+1 NAME কনকেশ্বৰৰ পৰিবাৰ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN কনকেশ্বৰৰ পৰিবাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0042@
+1 OBJE @O0285@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:39:52
+0 @I0125@ INDI
+1 NAME গোবিন্দ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN গোবিন্দ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0105@
+2 PEDI birth
+1 FAMS @F0043@
+1 OBJE @O0282@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:26:34
+0 @I0126@ INDI
+1 NAME গোবিন্দৰ পৰিবাৰ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN গোবিন্দৰ পৰিবাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 BIRT Y
+1 FAMS @F0043@
+1 OBJE @O0283@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:40:14
+0 @I0128@ INDI
+1 NAME সহোদৰৰ পৰিবাৰ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN সহোদৰৰ পৰিবাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0105@
+1 OBJE @O0281@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:43:02
+0 @I0130@ INDI
+1 NAME পিয়লিৰ পৰিবাৰ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN পিয়লিৰ পৰিবাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0045@
+1 OBJE @O0277@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:41:08
+0 @I0131@ INDI
+1 NAME পিয়লি /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN পিয়লি
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0039@
+2 PEDI birth
+1 FAMS @F0045@
+1 OBJE @O0276@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:28:06
+0 @I0133@ INDI
+1 NAME ৰুপাই /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN ৰুপাই
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0039@
+1 OBJE @O0274@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 17:54:59
+0 @I0134@ INDI
+1 NAME ৰুপাইৰ পৰিৱাৰ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN ৰুপাইৰ পৰিৱাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0039@
+1 OBJE @O0275@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:42:15
+0 @I0140@ INDI
+1 NAME থোলোক /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN থোলোক
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0045@
+2 PEDI birth
+1 FAMS @F0047@
+1 OBJE @O0278@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:27:10
+0 @I0141@ INDI
+1 NAME থোলোকৰ পৰিৱাৰ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN থোলোকৰ পৰিৱাৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0047@
+1 OBJE @O0279@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:40:29
+0 @I0146@ INDI
+1 NAME উপেন্দ্ৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN উপেন্দ্ৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0059@
+1 OBJE @O0384@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 09:52:26
+0 @I0147@ INDI
+1 NAME নৱ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN নৱ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0078@
+1 OBJE @O0391@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 11:07:31
+0 @I0148@ INDI
+1 NAME ইলি /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN ইলি
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0107@
+1 OBJE @O0091@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:39:43
+0 @I0149@ INDI
+1 NAME গীতা /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN গীতা
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0107@
+2 PEDI birth
+1 OBJE @O0102@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:44:03
+0 @I0150@ INDI
+1 NAME ইভা /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN ইভা
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMC @F0107@
+2 PEDI birth
+1 FAMS @F0049@
+1 OBJE @O0129@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:58:44
+0 @I0151@ INDI
+1 NAME প্ৰবীৰ /বৰুৱা/
+2 TYPE birth
+2 GIVN প্ৰবীৰ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0107@
+2 PEDI birth
+1 FAMS @F0050@
+1 OBJE @O0109@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:58:44
+0 @I0152@ INDI
+1 NAME মাধূৰ্য্য /ৰাজখোৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN মাধূৰ্য্য
+2 SPFX ৰাজখোৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0049@
+1 OBJE @O0130@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:30:49
+0 @I0153@ INDI
+1 NAME ববী /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN ববী
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMC @F0049@
+2 PEDI birth
+1 OBJE @O0185@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:08:36
+0 @I0154@ INDI
+1 NAME বাৰ্বী /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN বাৰ্বী
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMC @F0049@
+2 PEDI birth
+1 OBJE @O0184@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:08:16
+0 @I0155@ INDI
+1 NAME জ্যোতি /বৰুৱা/
+2 TYPE birth
+2 GIVN জ্যোতি
+2 SPFX বৰুৱা
+1 SEX F
+1 BIRT Y
+1 FAMS @F0050@
+1 OBJE @O0110@
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 18:03:28
+0 @I0156@ INDI
+1 NAME প্ৰগতি /বৰুৱা/
+2 TYPE birth
+2 GIVN প্ৰগতি
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0050@
+2 PEDI birth
+1 OBJE @O0183@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:07:45
+0 @I0157@ INDI
+1 NAME জ্যোতিষ্মাান /বৰুৱা/
+2 TYPE birth
+2 GIVN জ্যোতিষ্মাান
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0050@
+2 PEDI birth
+1 OBJE @O0111@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:38:26
+0 @I0158@ INDI
+1 NAME ইপ্সিতা /বৰুৱা/
+2 TYPE birth
+2 GIVN ইপ্সিতা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0205@
+2 PEDI birth
+1 FAMS @F0051@
+1 OBJE @O0090@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:30:50
+0 @I0159@ INDI
+1 NAME হৰ্ষবৰ্দ্ধন /বৰুৱা/
+2 TYPE birth
+2 GIVN হৰ্ষবৰ্দ্ধন
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0051@
+2 PEDI birth
+1 OBJE @O0290@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 23:09:34
+0 @I0160@ INDI
+1 NAME যশোবৰ্ধন /বৰুৱা/
+2 TYPE birth
+2 GIVN যশোবৰ্ধন
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0051@
+2 PEDI birth
+1 OBJE @O0291@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 23:10:38
+0 @I0161@ INDI
+1 NAME আইধান /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN আইধান
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0190@
+2 PEDI birth
+1 FAMS @F0108@
+1 OBJE @O0084@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 20:53:04
+0 @I0163@ INDI
+1 NAME পৰমানন্দ /বৰুৱা/
+2 TYPE birth
+2 GIVN পৰমানন্দ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0108@
+2 PEDI birth
+1 FAMS @F0055@
+1 OBJE @O0133@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:58:57
+0 @I0164@ INDI
+1 NAME আনন্দ /বৰুৱা/
+2 TYPE birth
+2 GIVN আনন্দ
+2 SPFX বৰুৱা
+1 SEX M
+1 BIRT Y
+1 FAMC @F0108@
+2 PEDI birth
+1 FAMS @F0056@
+1 OBJE @O0086@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:58:57
+0 @I0165@ INDI
+1 NAME বুলুমনি /বৰুৱা/
+2 TYPE birth
+2 GIVN বুলুমনি
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0108@
+2 PEDI birth
+1 FAMS @F0057@
+1 OBJE @O0136@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:58:57
+0 @I0166@ INDI
+1 NAME জ্যোতি /দত্ত/
+2 TYPE birth
+2 GIVN জ্যোতি
+2 SPFX দত্ত
+1 SEX F
+1 FAMC @F0108@
+2 PEDI birth
+1 FAMS @F0058@
+1 OBJE @O0036@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:58:57
+0 @I0167@ INDI
+1 NAME থিৰেশ্বৰ /শইকীয়া/
+2 TYPE birth
+2 GIVN থিৰেশ্বৰ
+2 SPFX শইকীয়া
+1 SEX M
+1 FAMS @F0176@
+1 OBJE @O0132@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 06:53:58
+0 @I0168@ INDI
+1 NAME লিপিকা /হাজৰীকা/
+2 TYPE birth
+2 GIVN লিপিকা
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMC @F0176@
+2 PEDI birth
+1 FAMS @F0054@
+1 OBJE @O0182@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 16:13:23
+0 @I0169@ INDI
+1 NAME মৃণাল /শইকীয়া/
+2 TYPE birth
+2 GIVN মৃণাল
+2 SPFX শইকীয়া
+1 SEX M
+1 FAMC @F0176@
+2 PEDI birth
+1 OBJE @O0180@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 16:13:23
+0 @I0170@ INDI
+1 NAME দেৱৰাজ /শইকীয়া/
+2 TYPE birth
+2 GIVN দেৱৰাজ
+2 SPFX শইকীয়া
+1 SEX M
+1 FAMC @F0176@
+2 PEDI birth
+1 FAMS @F0110@
+1 OBJE @O0178@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 16:13:23
+0 @I0172@ INDI
+1 NAME হৰেশ /হাজৰীকা/
+2 TYPE birth
+2 GIVN হৰেশ
+2 SPFX হাজৰীকা
+1 SEX M
+1 FAMS @F0054@
+1 OBJE @O0181@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:04:23
+0 @I0173@ INDI
+1 NAME ৰিছা /হাজৰীকা/
+2 TYPE birth
+2 GIVN ৰিছা
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMC @F0054@
+2 PEDI birth
+1 OBJE @O0204@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:36:31
+0 @I0174@ INDI
+1 NAME নৱমাধৱ /হাজৰীকা/
+2 TYPE birth
+2 GIVN নৱমাধৱ
+2 SPFX হাজৰীকা
+1 SEX M
+1 FAMC @F0054@
+2 PEDI birth
+1 OBJE @O0205@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:37:06
+0 @I0175@ INDI
+1 NAME প্ৰান্তিকা /বৰুৱা/
+2 TYPE birth
+2 GIVN প্ৰান্তিকা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0055@
+1 OBJE @O0134@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:53:30
+0 @I0176@ INDI
+1 NAME অনুৰাগ /বৰুৱা/
+2 TYPE birth
+2 GIVN অনুৰাগ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0055@
+2 PEDI birth
+1 OBJE @O0078@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:51:39
+0 @I0177@ INDI
+1 NAME চয়নিকা /বৰুৱা/
+2 TYPE birth
+2 GIVN চয়নিকা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0055@
+2 PEDI birth
+1 OBJE @O0107@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:19:53
+0 @I0178@ INDI
+1 NAME বুলু /বৰুৱা/
+2 TYPE birth
+2 GIVN বুলু
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0056@
+1 OBJE @O0135@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:54:47
+0 @I0179@ INDI
+1 NAME ৰুমী /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰুমী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0056@
+2 PEDI birth
+1 FAMS @F0062@
+1 OBJE @O0260@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:40:01
+0 @I0180@ INDI
+1 NAME ৰুপাংকৰ /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰুপাংকৰ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0056@
+2 PEDI birth
+1 OBJE @O0258@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:37:31
+0 @I0181@ INDI
+1 NAME নীলমনি /বৰুৱা/
+2 TYPE birth
+2 GIVN নীলমনি
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMS @F0057@
+1 OBJE @O0137@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:56:01
+0 @I0182@ INDI
+1 NAME নিলাক্ষী /বৰুৱা/
+2 TYPE birth
+2 GIVN নিলাক্ষী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0057@
+2 PEDI birth
+1 OBJE @O0208@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:44:10
+0 @I0183@ INDI
+1 NAME শিৱপ্ৰসাদ /বৰুৱা/
+2 TYPE birth
+2 GIVN শিৱপ্ৰসাদ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0057@
+2 PEDI birth
+1 OBJE @O0209@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:44:46
+0 @I0184@ INDI
+1 NAME বিকাশ /দত্ত/
+2 TYPE birth
+2 GIVN বিকাশ
+2 SPFX দত্ত
+1 SEX M
+1 FAMS @F0058@
+1 OBJE @O0037@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:17:58
+0 @I0185@ INDI
+1 NAME শতাব্দী /দত্ত/
+2 TYPE birth
+2 GIVN শতাব্দী
+2 SPFX দত্ত
+1 SEX F
+1 FAMC @F0058@
+2 PEDI birth
+1 OBJE @O0043@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:23:17
+0 @I0186@ INDI
+1 NAME সম্প্ৰীতি /দত্ত/
+2 TYPE birth
+2 GIVN সম্প্ৰীতি
+2 SPFX দত্ত
+1 SEX F
+1 FAMC @F0058@
+2 PEDI birth
+1 OBJE @O0044@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:23:42
+0 @I0187@ INDI
+1 NAME হিমানী /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN হিমানী
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0059@
+1 OBJE @O0386@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:13:34
+0 @I0188@ INDI
+1 NAME কমল /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN কমল
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0059@
+2 PEDI birth
+1 FAMS @F0060@
+1 OBJE @O0097@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:25:52
+0 @I0189@ INDI
+1 NAME কুমুদ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN কুমুদ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0059@
+2 PEDI birth
+1 FAMS @F0065@
+1 OBJE @O0387@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:19:20
+0 @I0190@ INDI
+1 NAME প্ৰফুল্ল /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN প্ৰফুল্ল
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0059@
+2 PEDI birth
+1 FAMS @F0064@
+1 OBJE @O0162@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:28:22
+0 @I0191@ INDI
+1 NAME পুষ্প /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN পুষ্প
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0059@
+2 PEDI birth
+1 OBJE @O0159@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:28:14
+0 @I0192@ INDI
+1 NAME স্বৰ্ণ /শইকীয়া/
+2 TYPE birth
+2 GIVN স্বৰ্ণ
+2 SPFX শইকীয়া
+1 SEX F
+1 FAMC @F0059@
+2 PEDI birth
+1 FAMS @F0071@
+1 OBJE @O0160@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:23:25
+0 @I0193@ INDI
+1 NAME লক্ষীদা২ /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN লক্ষীদা২
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0059@
+2 PEDI birth
+1 OBJE @O0261@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:42:34
+0 @I0194@ INDI
+1 NAME বেণী /বৰুৱা/
+2 TYPE birth
+2 GIVN বেণী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0060@
+1 OBJE @O0163@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:25:56
+0 @I0195@ INDI
+1 NAME বন্দনা /সিনহা/
+2 TYPE birth
+2 GIVN বন্দনা
+2 SPFX সিনহা
+1 SEX F
+1 FAMC @F0060@
+2 PEDI birth
+1 FAMS @F0063@
+1 OBJE @O0139@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:27:17
+0 @I0196@ INDI
+1 NAME পংকজ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN পংকজ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0060@
+2 PEDI birth
+1 OBJE @O0325@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:27:49
+0 @I0197@ INDI
+1 NAME পল্লব /বৰুৱা/
+2 TYPE birth
+2 GIVN পল্লব
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0060@
+2 PEDI birth
+1 OBJE @O0141@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:29:18
+0 @I0198@ INDI
+1 NAME সংগীতা /ডেকা/
+2 TYPE birth
+2 GIVN সংগীতা
+2 SPFX ডেকা
+1 SEX F
+1 FAMC @F0060@
+2 PEDI birth
+1 FAMS @F0109@
+1 OBJE @O0142@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:17:11
+0 @I0200@ INDI
+1 NAME অনুস্মিতা /শইকীয়া/
+2 TYPE birth
+2 GIVN অনুস্মিতা
+2 SPFX শইকীয়া
+1 SEX F
+1 FAMC @F0110@
+2 PEDI birth
+1 OBJE @O0206@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:32:18
+0 @I0201@ INDI
+1 NAME অনন্ত মাধৱ /বৰুৱা/
+2 TYPE birth
+2 GIVN অনন্ত মাধৱ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0191@
+2 PEDI birth
+1 FAMS @F0062@
+1 OBJE @O0075@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 20:55:37
+0 @I0202@ INDI
+1 NAME আদ্ৰিকা /বৰুৱা/
+2 TYPE birth
+2 GIVN আদ্ৰিকা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0062@
+2 PEDI birth
+1 OBJE @O0085@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:56:23
+0 @I0203@ INDI
+1 NAME স্বপ্নজিত /সিনহা/
+2 TYPE birth
+2 GIVN স্বপ্নজিত
+2 SPFX সিনহা
+1 SEX M
+1 FAMS @F0063@
+1 OBJE @O0138@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:58:03
+0 @I0205@ INDI
+1 NAME লাৱণ্য১ /বৰুৱা/
+2 TYPE birth
+2 GIVN লাৱণ্য১
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0064@
+1 OBJE @O0158@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:21:57
+0 @I0206@ INDI
+1 NAME প্ৰণৱ /বৰুৱা/
+2 TYPE birth
+2 GIVN প্ৰণৱ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0064@
+2 PEDI birth
+1 FAMS @F0067@
+1 OBJE @O0146@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:00:10
+0 @I0207@ INDI
+1 NAME লবণু /তামুলী/
+2 TYPE birth
+2 GIVN লবণু
+2 SPFX তামুলী
+1 SEX F
+1 FAMC @F0064@
+2 PEDI birth
+1 FAMS @F0068@
+1 OBJE @O0148@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:18:53
+0 @I0208@ INDI
+1 NAME বিপ্লব /বৰুৱা/
+2 TYPE birth
+2 GIVN বিপ্লব
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0064@
+2 PEDI birth
+1 FAMS @F0069@
+1 OBJE @O0150@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:03:00
+0 @I0209@ INDI
+1 NAME প্ৰাণজুৰ /বৰুৱা/
+2 TYPE birth
+2 GIVN প্ৰাণজুৰ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0064@
+2 PEDI birth
+1 FAMS @F0070@
+1 OBJE @O0173@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:47:21
+0 @I0210@ INDI
+1 NAME জীম /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN জীম
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0065@
+1 OBJE @O0388@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:20:51
+0 @I0211@ INDI
+1 NAME দীপ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN দীপ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 ADOP Y
+2 FAMC @F0065@
+3 ADOP BOTH
+1 FAMC @F0065@
+2 PEDI adopted
+1 FAMS @F0066@
+1 OBJE @O0144@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:27:06
+0 @I0212@ INDI
+1 NAME ৰাখী /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰাখী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0066@
+1 OBJE @O0145@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:53:20
+0 @I0213@ INDI
+1 NAME সবিতা /বৰুৱা/
+2 TYPE birth
+2 GIVN সবিতা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0067@
+1 OBJE @O0147@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:00:46
+0 @I0214@ INDI
+1 NAME দেবাংগ দৰ্পণ /বৰুৱা/
+2 TYPE birth
+2 GIVN দেবাংগ দৰ্পণ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0067@
+2 PEDI birth
+1 OBJE @O0211@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:20:56
+0 @I0215@ INDI
+1 NAME সন্জীৱ /তামুলী/
+2 TYPE birth
+2 GIVN সন্জীৱ
+2 SPFX তামুলী
+1 SEX M
+1 FAMS @F0068@
+1 OBJE @O0149@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:18:25
+0 @I0216@ INDI
+1 NAME কুন্তল /তামুলী/
+2 TYPE birth
+2 GIVN কুন্তল
+2 SPFX তামুলী
+1 SEX M
+1 FAMC @F0068@
+2 PEDI birth
+1 OBJE @O0273@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:41:30
+0 @I0217@ INDI
+1 NAME পল্লবী /বৰুৱা/
+2 TYPE birth
+2 GIVN পল্লবী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0069@
+1 OBJE @O0151@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:03:57
+0 @I0218@ INDI
+1 NAME আৰিয়ান /বৰুৱা/
+2 TYPE birth
+2 GIVN আৰিয়ান
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0069@
+2 PEDI birth
+1 OBJE @O0089@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:01:37
+0 @I0219@ INDI
+1 NAME আৰাধ্যা /বৰুৱা/
+2 TYPE birth
+2 GIVN আৰাধ্যা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0069@
+2 PEDI birth
+1 OBJE @O0088@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:15:32
+0 @I0220@ INDI
+1 NAME নিলাক্ষী১ /বৰুৱা/
+2 TYPE birth
+2 GIVN নিলাক্ষী১
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0070@
+1 OBJE @O0174@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:49:07
+0 @I0221@ INDI
+1 NAME প্ৰিয়াংশু প্ৰিয়ম /বৰুৱা/
+2 TYPE birth
+2 GIVN প্ৰিয়াংশু প্ৰিয়ম
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0070@
+2 PEDI birth
+1 OBJE @O0212@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:49:26
+0 @I0222@ INDI
+1 NAME নীলকান্ত /শইকীয়া/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN নীলকান্ত
+2 SPFX শইকীয়া
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0071@
+1 OBJE @O0161@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:31:03
+0 @I0223@ INDI
+1 NAME উমাকান্ত /শইকীয়া/
+2 TYPE birth
+2 GIVN উমাকান্ত
+2 SPFX শইকীয়া
+1 SEX M
+1 FAMC @F0071@
+2 PEDI birth
+1 FAMS @F0072@
+1 OBJE @O0175@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:49:41
+0 @I0224@ INDI
+1 NAME দীপালি /বৰুৱা/
+2 TYPE birth
+2 GIVN দীপালি
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0071@
+2 PEDI birth
+1 FAMS @F0073@
+1 OBJE @O0242@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:10:20
+0 @I0225@ INDI
+1 NAME ৰুপালী /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰুপালী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0071@
+2 PEDI birth
+1 FAMS @F0076@
+1 OBJE @O0369@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:55:20
+0 @I0226@ INDI
+1 NAME দেৱদত্ত /শইকীয়া/
+2 TYPE birth
+2 GIVN দেৱদত্ত
+2 SPFX শইকীয়া
+1 SEX M
+1 FAMC @F0071@
+2 PEDI birth
+1 FAMS @F0075@
+1 OBJE @O0268@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:02:13
+0 @I0227@ INDI
+1 NAME ৰাজলক্ষী /শইকীয়া/
+2 TYPE birth
+2 GIVN ৰাজলক্ষী
+2 SPFX শইকীয়া
+1 SEX F
+1 FAMS @F0072@
+1 OBJE @O0177@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:54:15
+0 @I0228@ INDI
+1 NAME অৰ্ণৱ /শইকীয়া/
+2 TYPE birth
+2 GIVN অৰ্ণৱ
+2 SPFX শইকীয়া
+1 SEX M
+1 FAMC @F0072@
+2 PEDI birth
+1 OBJE @O0216@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:56:50
+0 @I0229@ INDI
+1 NAME প্ৰিয়ঙ্কা /শইকীয়া/
+2 TYPE birth
+2 GIVN প্ৰিয়ঙ্কা
+2 SPFX শইকীয়া
+1 SEX F
+1 FAMC @F0072@
+2 PEDI birth
+1 OBJE @O0217@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:57:32
+0 @I0230@ INDI
+1 NAME পৰাগজ্যোতি /বৰুৱা/
+2 TYPE birth
+2 GIVN পৰাগজ্যোতি
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMS @F0073@
+1 OBJE @O0247@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:17:20
+0 @I0231@ INDI
+1 NAME মানস /বৰুৱা/
+2 TYPE birth
+2 GIVN মানস
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0073@
+2 PEDI birth
+1 FAMS @F0112@
+1 OBJE @O0218@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:58:09
+0 @I0232@ INDI
+1 NAME উৰ্ম্মিমালা /বৰুৱা/
+2 TYPE birth
+2 GIVN উৰ্ম্মিমালা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0073@
+2 PEDI birth
+1 OBJE @O0094@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:07:12
+0 @I0233@ INDI
+1 NAME দৰ্শনা /বৰুৱা/
+2 TYPE birth
+2 GIVN দৰ্শনা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0112@
+1 OBJE @O0219@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:58:53
+0 @I0234@ INDI
+1 NAME স্মৃতি /শইকীয়া/
+2 TYPE birth
+2 GIVN স্মৃতি
+2 SPFX শইকীয়া
+1 SEX F
+1 FAMS @F0075@
+1 OBJE @O0269@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:03:41
+0 @I0236@ INDI
+1 NAME অণিৰ্বান /শইকীয়া/
+2 TYPE birth
+2 GIVN অণিৰ্বান
+2 SPFX শইকীয়া
+1 SEX M
+1 FAMC @F0075@
+2 PEDI birth
+1 OBJE @O0214@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:55:50
+0 @I0237@ INDI
+1 NAME অনন্যা /শইকীয়া/
+2 TYPE birth
+2 GIVN অনন্যা
+2 SPFX শইকীয়া
+1 SEX F
+1 FAMC @F0075@
+2 PEDI birth
+1 OBJE @O0215@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:56:16
+0 @I0238@ INDI
+1 NAME উদয় লাল /বৰুৱা/
+2 TYPE birth
+2 GIVN উদয় লাল
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMS @F0076@
+1 OBJE @O0370@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:56:26
+0 @I0239@ INDI
+1 NAME অনুৰাধা /মহন/
+2 TYPE birth
+2 GIVN অনুৰাধা
+2 SPFX মহন
+1 SEX F
+1 FAMC @F0076@
+2 PEDI birth
+1 FAMS @F0077@
+1 OBJE @O0367@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:52:39
+0 @I0240@ INDI
+1 NAME সুস্মিতা /বৰুৱা/
+2 TYPE birth
+2 GIVN সুস্মিতা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0076@
+2 PEDI birth
+1 OBJE @O0368@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:54:29
+0 @I0241@ INDI
+1 NAME সন্জয় কৃষ্ণ /মহন/
+2 TYPE birth
+2 GIVN সন্জয় কৃষ্ণ
+2 SPFX মহন
+1 SEX M
+1 FAMS @F0077@
+1 OBJE @O0069@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:51:25
+0 @I0242@ INDI
+1 NAME লিয়ানা গৌৰী /মহন/
+2 TYPE birth
+2 GIVN লিয়ানা গৌৰী
+2 SPFX মহন
+1 SEX F
+1 FAMC @F0077@
+2 PEDI birth
+1 OBJE @O0068@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:53:31
+0 @I0243@ INDI
+1 NAME ধানী /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN ধানী
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX M
+1 FAMS @F0078@
+1 OBJE @O0385@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 09:55:45
+0 @I0244@ INDI
+1 NAME কণমাই /বৰা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN কণমাই
+2 SPFX বৰা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0078@
+2 PEDI birth
+1 FAMS @F0084@
+1 OBJE @O0390@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:17:27
+0 @I0245@ INDI
+1 NAME যোগেন /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN যোগেন
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0078@
+2 PEDI birth
+1 FAMS @F0083@
+1 OBJE @O0157@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:29:22
+0 @I0246@ INDI
+1 NAME অৱলা /কলিতা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN অৱলা
+2 SPFX কলিতা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0078@
+2 PEDI birth
+1 FAMS @F0082@
+1 RESI
+2 ADDR পুলিবৰ থানা ৰোড
+3 CONT দহোটিয়া
+3 CONT যোৰহাট
+3 CONT অসম
+3 CONT ৭৮৫৬১৭
+3 CONT ভাৰত
+3 ADR1 পুলিবৰ থানা ৰোড
+3 ADR2 দহোটিয়া
+3 CITY যোৰহাট
+3 STAE অসম
+3 POST ৭৮৫৬১৭
+3 CTRY ভাৰত
+1 OBJE @O0000@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:36:39
+0 @I0247@ INDI
+1 NAME অন্নদা /ৰাজখোৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN অন্নদা
+2 SPFX ৰাজখোৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0078@
+2 PEDI birth
+1 FAMS @F0081@
+1 OBJE @O0154@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:43:19
+0 @I0248@ INDI
+1 NAME ৰাজেন /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰাজেন
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0078@
+2 PEDI birth
+1 FAMS @F0080@
+1 OBJE @O0152@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:16:28
+0 @I0249@ INDI
+1 NAME মহেন্দ্ৰ /দত্ত/
+2 TYPE birth
+2 GIVN মহেন্দ্ৰ
+2 SPFX দত্ত
+1 SEX M
+1 FAMS @F0079@
+1 OBJE @O0042@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:21:48
+0 @I0250@ INDI
+1 NAME মামনি১ /বৰুৱা/
+2 TYPE birth
+2 GIVN মামনি১
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0080@
+1 OBJE @O0153@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:17:18
+0 @I0251@ INDI
+1 NAME নাৰায়ন /ৰাজখোৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN নাৰায়ন
+2 SPFX ৰাজখোৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0081@
+1 OBJE @O0155@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:30:37
+0 @I0252@ INDI
+1 NAME ঘন /কলিতা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN ঘন
+2 SPFX কলিতা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0082@
+1 OBJE @O0001@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:21:15
+0 @I0253@ INDI
+1 NAME মাকৰী /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN মাকৰী
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0083@
+1 OBJE @O0156@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:41:49
+0 @I0254@ INDI
+1 NAME মইনা /বৰা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN মইনা
+2 SPFX বৰা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0084@
+1 OBJE @O0389@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:17:01
+0 @I0255@ INDI
+1 NAME বীনা /দত্ত/
+2 TYPE birth
+2 GIVN বীনা
+2 SPFX দত্ত
+1 SEX F
+1 FAMC @F0084@
+2 PEDI birth
+1 FAMS @F0085@
+1 OBJE @O0415@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:53:05
+0 @I0256@ INDI
+1 NAME জুনু /বৰা/
+2 TYPE birth
+2 GIVN জুনু
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0084@
+2 PEDI birth
+1 OBJE @O0417@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:54:16
+0 @I0257@ INDI
+1 NAME ডাঙৰ ভাই /বৰা/
+2 TYPE birth
+2 GIVN ডাঙৰ ভাই
+2 SPFX বৰা
+1 SEX M
+1 FAMC @F0084@
+2 PEDI birth
+1 FAMS @F0086@
+1 OBJE @O0418@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:54:52
+0 @I0258@ INDI
+1 NAME যাদৱ /বৰা/
+2 TYPE birth
+2 GIVN যাদৱ
+2 SPFX বৰা
+1 SEX M
+1 FAMC @F0084@
+2 PEDI birth
+1 FAMS @F0087@
+1 OBJE @O0420@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:56:09
+0 @I0259@ INDI
+1 NAME বাবা /বৰা/
+2 TYPE birth
+2 GIVN বাবা
+2 SPFX বৰা
+1 SEX M
+1 FAMC @F0084@
+2 PEDI birth
+1 OBJE @O0422@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:57:55
+0 @I0260@ INDI
+1 NAME ৰীণা /বৰা/
+2 TYPE birth
+2 GIVN ৰীণা
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0084@
+2 PEDI birth
+1 OBJE @O0424@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:59:33
+0 @I0261@ INDI
+1 NAME নীল /দত্ত/
+2 TYPE birth
+2 GIVN নীল
+2 SPFX দত্ত
+1 SEX M
+1 FAMS @F0085@
+1 OBJE @O0416@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:53:43
+0 @I0262@ INDI
+1 NAME দিপালী২ /বৰা/
+2 TYPE birth
+2 GIVN দিপালী২
+2 SPFX বৰা
+1 SEX F
+1 FAMS @F0086@
+1 OBJE @O0419@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:55:32
+0 @I0263@ INDI
+1 NAME মামনি২ /বৰা/
+2 TYPE birth
+2 GIVN মামনি২
+2 SPFX বৰা
+1 SEX F
+1 FAMS @F0087@
+1 OBJE @O0421@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:57:22
+0 @I0264@ INDI
+1 NAME অজিত /বৰুৱা/
+2 TYPE birth
+2 GIVN অজিত
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0083@
+2 PEDI birth
+1 FAMS @F0088@
+1 OBJE @O0072@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:46:19
+0 @I0265@ INDI
+1 NAME বুলবুলি /দত্ত/
+2 TYPE birth
+2 GIVN বুলবুলি
+2 SPFX দত্ত
+1 SEX F
+1 FAMC @F0083@
+2 PEDI birth
+1 FAMS @F0089@
+1 OBJE @O0040@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:20:07
+0 @I0266@ INDI
+1 NAME অনিল /বৰুৱা/
+2 TYPE birth
+2 GIVN অনিল
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0083@
+2 PEDI birth
+1 FAMS @F0091@
+1 OBJE @O0076@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:49:42
+0 @I0267@ INDI
+1 NAME অখিল /বৰুৱা/
+2 TYPE birth
+2 GIVN অখিল
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0083@
+2 PEDI birth
+1 FAMS @F0094@
+1 OBJE @O0071@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:45:46
+0 @I0268@ INDI
+1 NAME অৰুণ /বৰুৱা/
+2 TYPE birth
+2 GIVN অৰুণ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0083@
+2 PEDI birth
+1 FAMS @F0095@
+1 OBJE @O0082@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:54:33
+0 @I0269@ INDI
+1 NAME যুতি /বৰুৱা/
+2 TYPE birth
+2 GIVN যুতি
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0083@
+2 PEDI birth
+1 FAMS @F0096@
+1 OBJE @O0332@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:36:47
+0 @I0270@ INDI
+1 NAME কাজু /বৰা/
+2 TYPE birth
+2 GIVN কাজু
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0083@
+2 PEDI birth
+1 FAMS @F0097@
+1 OBJE @O0059@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:31:35
+0 @I0271@ INDI
+1 NAME নয়ন /বৰুৱা/
+2 TYPE birth
+2 GIVN নয়ন
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0083@
+2 PEDI birth
+1 FAMS @F0098@
+1 OBJE @O0244@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:13:08
+0 @I0272@ INDI
+1 NAME ৰিন্জু /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰিন্জু
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0088@
+1 OBJE @O0255@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:28:38
+0 @I0273@ INDI
+1 NAME ৰোষেশবৰ /দত্ত/
+2 TYPE birth
+2 GIVN ৰোষেশবৰ
+2 SPFX দত্ত
+1 SEX M
+1 FAMS @F0089@
+1 OBJE @O0321@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:11:01
+0 @I0274@ INDI
+1 NAME অৰ্পিতা /বৰা/
+2 TYPE birth
+2 GIVN অৰ্পিতা
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0089@
+2 PEDI birth
+1 FAMS @F0090@
+1 OBJE @O0365@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 07:03:05
+0 @I0275@ INDI
+1 NAME অংকিতা /দত্ত/
+2 TYPE birth
+2 GIVN অংকিতা
+2 SPFX দত্ত
+1 SEX F
+1 FAMC @F0089@
+2 PEDI birth
+1 OBJE @O0033@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:13:09
+0 @I0276@ INDI
+1 NAME মদন /বৰা/
+2 TYPE birth
+2 GIVN মদন
+2 SPFX বৰা
+1 SEX M
+1 FAMS @F0090@
+1 OBJE @O0323@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:14:08
+0 @I0277@ INDI
+1 NAME মন্জুৰী /বৰুৱা/
+2 TYPE birth
+2 GIVN মন্জুৰী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0091@
+1 OBJE @O0252@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:23:01
+0 @I0278@ INDI
+1 NAME মানস প্ৰতীম /বৰুৱা/
+2 TYPE birth
+2 GIVN মানস প্ৰতীম
+2 SPFX বৰুৱা
+2 NICK তিকু
+1 SEX M
+1 FAMC @F0091@
+2 PEDI birth
+1 OBJE @O0225@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:04:16
+0 @I0279@ INDI
+1 NAME দিপশিখা২ /বৰুৱা/
+2 TYPE birth
+2 GIVN দিপশিখা২
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0091@
+2 PEDI birth
+1 OBJE @O0220@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:59:45
+0 @I0280@ INDI
+1 NAME নমিতা /কলিতা/
+2 TYPE birth
+2 GIVN নমিতা
+2 SPFX কলিতা
+1 SEX F
+1 FAMC @F0088@
+2 PEDI birth
+1 FAMS @F0092@
+1 OBJE @O0003@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:35:07
+0 @I0281@ INDI
+1 NAME গায়ত্ৰী /খাৰঘৰীয়া/
+2 TYPE birth
+2 GIVN গায়ত্ৰী
+2 SPFX খাৰঘৰীয়া
+1 SEX F
+1 FAMC @F0088@
+2 PEDI birth
+1 FAMS @F0093@
+1 OBJE @O0226@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 12:57:00
+0 @I0282@ INDI
+1 NAME শ্ৰীমন্ত /কলিতা/
+2 TYPE birth
+2 GIVN শ্ৰীমন্ত
+2 SPFX কলিতা
+1 SEX M
+1 FAMS @F0092@
+1 OBJE @O0004@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:36:28
+0 @I0283@ INDI
+1 NAME দৰ্শিত স্পন্দন /কলিতা/
+2 TYPE birth
+2 GIVN দৰ্শিত স্পন্দন
+2 SPFX কলিতা
+1 SEX M
+1 FAMC @F0092@
+2 PEDI birth
+1 OBJE @O0002@
+1 CHAN
+2 DATE 4 JUL 2026
+3 TIME 08:08:04
+0 @I0284@ INDI
+1 NAME অৰবিন্দ /খাৰঘৰীয়া/
+2 TYPE birth
+2 GIVN অৰবিন্দ
+2 SPFX খাৰঘৰীয়া
+1 SEX M
+1 FAMS @F0093@
+1 OBJE @O0366@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 12:59:32
+0 @I0285@ INDI
+1 NAME আদ্ৰিকা /খাৰঘৰীয়া/
+2 TYPE birth
+2 GIVN আদ্ৰিকা
+2 SPFX খাৰঘৰীয়া
+1 SEX F
+1 FAMC @F0093@
+2 PEDI birth
+1 OBJE @O0207@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 20:46:09
+0 @I0286@ INDI
+1 NAME বুলি /বৰুৱা/
+2 TYPE birth
+2 GIVN বুলি
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0094@
+1 OBJE @O0251@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:22:13
+0 @I0287@ INDI
+1 NAME দেৱৰাজ /বৰুৱা/
+2 TYPE birth
+2 GIVN দেৱৰাজ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0094@
+2 PEDI birth
+1 OBJE @O0224@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:03:29
+0 @I0288@ INDI
+1 NAME যুৱৰাজ /বৰুৱা/
+2 TYPE birth
+2 GIVN যুৱৰাজ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0094@
+2 PEDI birth
+1 OBJE @O0223@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:02:52
+0 @I0289@ INDI
+1 NAME দিপালী৩ /বৰুৱা/
+2 TYPE birth
+2 GIVN দিপালী৩
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0095@
+1 OBJE @O0241@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:09:42
+0 @I0290@ INDI
+1 NAME ৰাজদ্বীপ /বৰুৱা/
+2 TYPE birth
+2 GIVN ৰাজদ্বীপ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0095@
+2 PEDI birth
+1 OBJE @O0222@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:01:47
+0 @I0291@ INDI
+1 NAME মামনি২ /বৰুৱা/
+2 TYPE birth
+2 GIVN মামনি২
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0096@
+1 OBJE @O0253@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:24:42
+0 @I0292@ INDI
+1 NAME মূৰ্চ্চনা /বৰুৱা/
+2 TYPE birth
+2 GIVN মূৰ্চ্চনা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0096@
+2 PEDI birth
+1 OBJE @O0221@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:01:11
+0 @I0293@ INDI
+1 NAME দিলীপ /বৰা/
+2 TYPE birth
+2 GIVN দিলীপ
+2 SPFX বৰা
+1 SEX M
+1 FAMS @F0097@
+1 OBJE @O0062@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:34:35
+0 @I0294@ INDI
+1 NAME অংকুৰিতা /বৰা/
+2 TYPE birth
+2 GIVN অংকুৰিতা
+2 SPFX বৰা
+1 SEX F
+1 FAMC @F0097@
+2 PEDI birth
+1 OBJE @O0051@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:28:21
+0 @I0295@ INDI
+1 NAME পম্পি /বৰুৱা/
+2 TYPE birth
+2 GIVN পম্পি
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0098@
+1 OBJE @O0246@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:16:44
+0 @I0296@ INDI
+1 NAME অয়ন /বৰুৱা/
+2 TYPE birth
+2 GIVN অয়ন
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0098@
+2 PEDI birth
+1 OBJE @O0081@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:53:40
+0 @I0297@ INDI
+1 NAME মনি /কলিতা/
+2 TYPE birth
+2 GIVN মনি
+2 SPFX কলিতা
+1 SEX F
+1 FAMC @F0082@
+2 PEDI birth
+1 OBJE @O0425@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:00:21
+0 @I0298@ INDI
+1 NAME লালু /কলিতা/
+2 TYPE birth
+2 GIVN লালু
+2 SPFX কলিতা
+1 SEX M
+1 FAMC @F0082@
+2 PEDI birth
+1 OBJE @O0426@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:01:00
+0 @I0299@ INDI
+1 NAME দুলু /কলিতা/
+2 TYPE birth
+2 GIVN দুলু
+2 SPFX কলিতা
+1 SEX M
+1 FAMC @F0082@
+2 PEDI birth
+1 OBJE @O0427@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:01:44
+0 @I0300@ INDI
+1 NAME ৰমেশ /কলিতা/
+2 TYPE birth
+2 GIVN ৰমেশ
+2 SPFX কলিতা
+1 SEX M
+1 FAMC @F0082@
+2 PEDI birth
+1 OBJE @O0428@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:02:30
+0 @I0301@ INDI
+1 NAME পৰেশ /কলিতা/
+2 TYPE birth
+2 GIVN পৰেশ
+2 SPFX কলিতা
+1 SEX M
+1 FAMC @F0082@
+2 PEDI birth
+1 OBJE @O0429@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:02:56
+0 @I0302@ INDI
+1 NAME বাবা /কলিতা/
+2 TYPE birth
+2 GIVN বাবা
+2 SPFX কলিতা
+1 SEX M
+1 FAMC @F0082@
+2 PEDI birth
+1 OBJE @O0430@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:03:35
+0 @I0303@ INDI
+1 NAME ভাই /কলিতা/
+2 TYPE birth
+2 GIVN ভাই
+2 SPFX কলিতা
+1 SEX M
+1 BIRT
+2 OBJE @O0431@
+1 FAMC @F0082@
+2 PEDI birth
+1 OBJE @O0444@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:16:10
+0 @I0304@ INDI
+1 NAME নিৰন্জন /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN নিৰন্জন
+2 SPFX ৰাজখোৱা
+1 SEX M
+1 FAMC @F0081@
+2 PEDI birth
+1 OBJE @O0319@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:08:23
+0 @I0305@ INDI
+1 NAME ৰুমী /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN ৰুমী
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMC @F0081@
+2 PEDI birth
+1 OBJE @O0432@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:05:06
+0 @I0306@ INDI
+1 NAME বন /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN বন
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMC @F0081@
+2 PEDI birth
+1 OBJE @O0433@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:05:36
+0 @I0307@ INDI
+1 NAME নম্ৰতা /বৰুৱা/
+2 TYPE birth
+2 GIVN নম্ৰতা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0119@
+2 PEDI birth
+1 FAMS @F0099@
+1 OBJE @O0057@
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 11:36:48
+0 @I0310@ INDI
+1 NAME লাৱণ্য২ /বৰুৱা/
+2 TYPE birth
+2 GIVN লাৱণ্য২
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMC @F0100@
+2 PEDI birth
+1 OBJE @O0262@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:44:25
+0 @I0311@ INDI
+1 NAME সুশীল /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN সুশীল
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0100@
+2 PEDI birth
+1 FAMS @F0128@
+1 OBJE @O0115@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:30:11
+0 @I0312@ INDI
+1 NAME বীণা /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN বীণা
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMC @F0100@
+2 PEDI birth
+1 OBJE @O0116@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:41:34
+0 @I0315@ INDI
+1 NAME সহোদৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN সহোদৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0047@
+2 PEDI birth
+1 FAMS @F0105@
+1 OBJE @O0280@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:30:03
+0 @I0317@ INDI
+1 NAME হেমন্ত /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN হেমন্ত
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0106@
+1 OBJE @O0167@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:30:18
+0 @I0318@ INDI
+1 NAME মহেন্দ্ৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN মহেন্দ্ৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0036@
+2 PEDI birth
+1 OBJE @O0165@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:29:04
+0 @I0319@ INDI
+1 NAME নৰেন্দ্ৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN নৰেন্দ্ৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0107@
+1 OBJE @O0164@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:27:30
+0 @I0320@ INDI
+1 NAME দেৱেন্দ্ৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN দেৱেন্দ্ৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0108@
+1 OBJE @O0171@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 22:27:20
+0 @I0323@ INDI
+1 NAME অমৰ জ্যোতি /ডেকা/
+2 TYPE birth
+2 GIVN অমৰ জ্যোতি
+2 SPFX ডেকা
+1 SEX M
+1 FAMS @F0109@
+1 OBJE @O0143@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:51:35
+0 @I0324@ INDI
+1 NAME মনিষা /শইকীয়া/
+2 TYPE birth
+2 GIVN মনিষা
+2 SPFX শইকীয়া
+1 SEX F
+1 FAMS @F0110@
+1 OBJE @O0179@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:03:01
+0 @I0325@ INDI
+1 NAME লতা /কাকতী/
+2 TYPE birth
+2 GIVN লতা
+2 SPFX কাকতী
+1 SEX F
+1 FAMS @F0111@
+1 OBJE @O0238@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:59:14
+0 @I0326@ INDI
+1 NAME আদি /কাকতী/
+2 TYPE birth
+2 GIVN আদি
+2 SPFX কাকতী
+1 SEX M
+1 FAMC @F0111@
+2 PEDI birth
+1 OBJE @O0196@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:29:41
+0 @I0327@ INDI
+1 NAME আদ্যা /কাকতী/
+2 TYPE birth
+2 GIVN আদ্যা
+2 SPFX কাকতী
+1 SEX F
+1 FAMC @F0111@
+2 PEDI birth
+1 OBJE @O0197@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:30:02
+0 @I0328@ INDI
+1 NAME ঋষি /সিনহা/
+2 TYPE birth
+2 GIVN ঋষি
+2 SPFX সিনহা
+1 SEX M
+1 FAMC @F0063@
+2 PEDI birth
+1 OBJE @O0213@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:54:54
+0 @I0330@ INDI
+1 NAME উৰ্বশ্ৰী /কুমাৰ/
+2 TYPE birth
+2 GIVN উৰ্বশ্ৰী
+2 SPFX কুমাৰ
+1 SEX F
+1 FAMC @F0027@
+2 PEDI birth
+1 FAMS @F0114@
+1 OBJE @O0229@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:50:39
+0 @I0331@ INDI
+1 NAME প্ৰণীত /কুমাৰ/
+2 TYPE birth
+2 GIVN প্ৰণীত
+2 SPFX কুমাৰ
+1 SEX M
+1 FAMC @F0203@
+2 PEDI birth
+1 FAMS @F0114@
+1 OBJE @O0228@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:23:01
+0 @I0332@ INDI
+1 NAME সন্জয় /দুৱৰা/
+2 TYPE birth
+2 GIVN সন্জয়
+2 SPFX দুৱৰা
+1 SEX M
+1 FAMC @F0186@
+2 PEDI birth
+1 FAMS @F0115@
+1 OBJE @O0233@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:10:50
+0 @I0334@ INDI
+1 NAME দেৱব্ৰত /বায়ন/
+2 TYPE birth
+2 GIVN দেৱব্ৰত
+2 SPFX বায়ন
+1 SEX M
+1 FAMC @F0193@
+2 PEDI birth
+1 FAMS @F0116@
+1 OBJE @O0234@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:53:50
+0 @I0335@ INDI
+1 NAME শোভন /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN শোভন
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0117@
+1 OBJE @O0339@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:09:12
+0 @I0336@ INDI
+1 NAME প্ৰতিভা /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN প্ৰতিভা
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0117@
+1 OBJE @O0340@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:09:36
+0 @I0339@ INDI
+1 NAME কেশৱ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN কেশৱ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0118@
+1 OBJE @O0345@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:15:22
+0 @I0340@ INDI
+1 NAME জ্যোতি মহন /বৰুৱা/
+2 TYPE birth
+2 GIVN জ্যোতি মহন
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0118@
+1 OBJE @O0346@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:15:55
+0 @I0344@ INDI
+1 NAME দিলীপ /শৰ্ম্মা/
+2 TYPE birth
+2 GIVN দিলীপ
+2 SPFX শৰ্ম্মা
+1 SEX M
+1 FAMS @F0119@
+1 OBJE @O0347@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:16:25
+0 @I0345@ INDI
+1 NAME কল্পনা /শৰ্ম্মা/
+2 TYPE birth
+2 GIVN কল্পনা
+2 SPFX শৰ্ম্মা
+1 SEX F
+1 FAMS @F0119@
+1 OBJE @O0348@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:16:44
+0 @I0346@ INDI
+1 NAME দিগন্ত /শৰ্ম্মা/
+2 TYPE birth
+2 GIVN দিগন্ত
+2 SPFX শৰ্ম্মা
+1 SEX M
+1 FAMC @F0119@
+2 PEDI birth
+1 FAMS @F0123@
+1 OBJE @O0360@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:22:56
+0 @I0347@ INDI
+1 NAME ভূৱন /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN ভূৱন
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0194@
+2 PEDI birth
+1 FAMS @F0177@
+1 OBJE @O0292@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 06:49:28
+0 @I0348@ INDI
+1 NAME পদুমী /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN পদুমী
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0177@
+1 OBJE @O0293@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 07:09:23
+0 @I0353@ INDI
+1 NAME আস্থা /শৰ্ম্মা/
+2 TYPE birth
+2 GIVN আস্থা
+2 SPFX শৰ্ম্মা
+1 SEX F
+1 FAMS @F0123@
+1 OBJE @O0361@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:23:11
+0 @I0365@ INDI
+1 NAME নিৰন্জনৰ পৰিবাৰ /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN নিৰন্জনৰ পৰিবাৰ
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 OBJE @O0320@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:10:03
+0 @I0367@ INDI
+1 NAME আহান স্পন্দন /কলিতা/
+2 TYPE birth
+2 GIVN আহান স্পন্দন
+2 SPFX কলিতা
+1 SEX M
+1 FAMC @F0092@
+2 PEDI birth
+1 OBJE @O0324@
+1 CHAN
+2 DATE 4 JUL 2026
+3 TIME 08:08:54
+0 @I0368@ INDI
+1 NAME প্ৰফুল্ল /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN প্ৰফুল্ল
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 BIRT Y
+1 FAMS @F0181@
+1 FAMS @F0183@
+1 FAMS @F0185@
+1 OBJE @O0373@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:02:53
+0 @I0369@ INDI
+1 NAME সুৰেণ /কাকতী/
+2 TYPE birth
+2 GIVN সুৰেণ
+2 SPFX কাকতী
+1 SEX M
+1 FAMS @F0132@
+1 OBJE @O0335@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:03:38
+0 @I0370@ INDI
+1 NAME স্নেহলতা /কাকতী/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN স্নেহলতা
+2 SPFX কাকতী
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0132@
+1 OBJE @O0336@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:03:54
+0 @I0371@ INDI
+1 NAME অজয় /কাকতী/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN অজয়
+2 SPFX কাকতী
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMC @F0132@
+2 PEDI birth
+1 FAMS @F0009@
+1 OBJE @O0331@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 10:06:58
+0 @I0372@ INDI
+1 NAME শংকৰ /বৰুৱা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN শংকৰ
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0133@
+1 OBJE @O0337@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:04:48
+0 @I0373@ INDI
+1 NAME অন্নপ্ৰভা /বৰুৱা/ স্বৰ্গীয়া
+2 TYPE birth
+2 GIVN অন্নপ্ৰভা
+2 SPFX বৰুৱা
+2 NSFX স্বৰ্গীয়া
+1 SEX F
+1 FAMS @F0133@
+1 OBJE @O0338@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:05:22
+0 @I0374@ INDI
+1 NAME ৰুপাই /হাজৰীকা/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN ৰুপাই
+2 SPFX হাজৰীকা
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0134@
+1 OBJE @O0343@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:13:46
+0 @I0375@ INDI
+1 NAME জয়দা /হাজৰীকা/
+2 TYPE birth
+2 GIVN জয়দা
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMS @F0134@
+1 OBJE @O0344@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:14:25
+0 @I0376@ INDI
+1 NAME দেৱেন /নেওগ/ স্বৰ্গীয়
+2 TYPE birth
+2 GIVN দেৱেন
+2 SPFX নেওগ
+2 NSFX স্বৰ্গীয়
+1 SEX M
+1 FAMS @F0135@
+1 OBJE @O0341@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:12:32
+0 @I0377@ INDI
+1 NAME ইলা /নেওগ/
+2 TYPE birth
+2 GIVN ইলা
+2 SPFX নেওগ
+1 SEX F
+1 FAMS @F0135@
+1 OBJE @O0342@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:12:47
+0 @I0527@ INDI
+1 NAME তুতু /শইকীয়া/
+2 TYPE birth
+2 GIVN তুতু
+2 SPFX শইকীয়া
+1 SEX F
+1 FAMC @F0108@
+2 PEDI birth
+1 FAMS @F0176@
+1 OBJE @O0376@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 16:08:43
+0 @I0528@ INDI
+1 NAME চন্দ্ৰকান্ত /হাজৰীকা/
+2 TYPE birth
+2 GIVN চন্দ্ৰকান্ত
+2 SPFX হাজৰীকা
+1 SEX M
+1 FAMS @F0178@
+1 OBJE @O0374@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 14:20:31
+0 @I0529@ INDI
+1 NAME লাৱণ্য /হাজৰীকা/
+2 TYPE birth
+2 GIVN লাৱণ্য
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMS @F0178@
+1 OBJE @O0375@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 14:20:49
+0 @I0532@ INDI
+1 NAME টুণীৰাম /বৰুৱা/
+2 TYPE birth
+2 GIVN টুণীৰাম
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0180@
+1 OBJE @O0383@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 09:50:37
+0 @I0533@ INDI
+1 NAME টুণীৰামৰ পৰিবাৰ /বৰুৱা/
+2 TYPE birth
+2 GIVN টুণীৰামৰ পৰিবাৰ
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0180@
+1 OBJE @O0378@
+1 CHAN
+2 DATE 27 JUN 2026
+3 TIME 08:37:48
+0 @I0534@ INDI
+1 NAME স্নেহলতা /বৰুৱা/
+2 TYPE birth
+2 GIVN স্নেহলতা
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0181@
+1 FAMS @F0183@
+1 FAMS @F0185@
+1 OBJE @O0379@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:02:53
+0 @I0536@ INDI
+1 NAME শোভ /দুৱৰা/
+2 TYPE birth
+2 GIVN শোভ
+2 SPFX দুৱৰা
+1 SEX M
+1 FAMS @F0186@
+1 OBJE @O0380@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:12:23
+0 @I0537@ INDI
+1 NAME নিৰ্ম্মালী /দুৱৰা/
+2 TYPE birth
+2 GIVN নিৰ্ম্মালী
+2 SPFX দুৱৰা
+1 SEX F
+1 FAMS @F0186@
+1 OBJE @O0381@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:12:48
+0 @I0538@ INDI
+1 NAME পাৰুল চন্দ্ৰ /দত্ত/
+2 TYPE birth
+2 GIVN পাৰুল চন্দ্ৰ
+2 SPFX দত্ত
+1 SEX M
+1 FAMS @F0187@
+1 OBJE @O0392@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 17:49:16
+0 @I0539@ INDI
+1 NAME প্ৰিয়ম /দত্ত/
+2 TYPE birth
+2 GIVN প্ৰিয়ম
+2 SPFX দত্ত
+1 SEX F
+1 FAMS @F0187@
+1 OBJE @O0393@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 17:49:16
+0 @I0540@ INDI
+1 NAME সুৰ্যপ্ৰতাপ /দুগ্গল/
+2 TYPE birth
+2 GIVN সুৰ্যপ্ৰতাপ
+2 SPFX দুগ্গল
+1 SEX M
+1 FAMS @F0188@
+1 OBJE @O0394@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 18:00:29
+0 @I0541@ INDI
+1 NAME বীনা /দুগ্গল/
+2 TYPE birth
+2 GIVN বীনা
+2 SPFX দুগ্গল
+1 SEX F
+1 FAMS @F0188@
+1 OBJE @O0395@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 18:00:29
+0 @I0542@ INDI
+1 NAME বাপুৰাম /বৰা/
+2 TYPE birth
+2 GIVN বাপুৰাম
+2 SPFX বৰা
+1 SEX M
+1 FAMS @F0189@
+1 OBJE @O0404@
+1 CHAN
+2 DATE 4 JUL 2026
+3 TIME 08:33:11
+0 @I0543@ INDI
+1 NAME সোনপাহী /বৰা/
+2 TYPE birth
+2 GIVN সোনপাহী
+2 SPFX বৰা
+1 SEX F
+1 FAMS @F0189@
+1 OBJE @O0405@
+1 CHAN
+2 DATE 4 JUL 2026
+3 TIME 08:32:46
+0 @I0544@ INDI
+1 NAME গোলাই /বৰা/
+2 TYPE birth
+2 GIVN গোলাই
+2 SPFX বৰা
+1 SEX M
+1 FAMS @F0190@
+1 OBJE @O0406@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:37:00
+0 @I0545@ INDI
+1 NAME সুম্বৰী /বৰা/
+2 TYPE birth
+2 GIVN সুম্বৰী
+2 SPFX বৰা
+1 SEX F
+1 FAMS @F0190@
+1 OBJE @O0407@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:37:26
+0 @I0546@ INDI
+1 NAME বিনন্দ /বৰুৱা/
+2 TYPE birth
+2 GIVN বিনন্দ
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMS @F0191@
+1 OBJE @O0396@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:15:09
+0 @I0547@ INDI
+1 NAME লক্ষী /বৰুৱা/
+2 TYPE birth
+2 GIVN লক্ষী
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0191@
+1 OBJE @O0397@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:15:57
+0 @I0548@ INDI
+1 NAME আবু /চিদ্দিকি/
+2 TYPE birth
+2 GIVN আবু
+2 SPFX চিদ্দিকি
+1 SEX M
+1 FAMS @F0192@
+1 OBJE @O0402@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:12:10
+0 @I0549@ INDI
+1 NAME ৰেহনা /চিদ্দিকি/
+2 TYPE birth
+2 GIVN ৰেহনা
+2 SPFX চিদ্দিকি
+1 SEX F
+1 FAMS @F0192@
+1 OBJE @O0403@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:12:31
+0 @I0550@ INDI
+1 NAME দালিম /বায়ন/
+2 TYPE birth
+2 GIVN দালিম
+2 SPFX বায়ন
+1 SEX M
+1 FAMS @F0193@
+1 OBJE @O0398@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:55:24
+0 @I0551@ INDI
+1 NAME প্ৰতিভা /বায়ন/
+2 TYPE birth
+2 GIVN প্ৰতিভা
+2 SPFX বায়ন
+1 SEX F
+1 FAMS @F0193@
+1 OBJE @O0399@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:55:50
+0 @I0552@ INDI
+1 NAME পিজাই /বৰুৱা/
+2 TYPE birth
+2 GIVN পিজাই
+2 SPFX বৰুৱা
+1 SEX M
+1 FAMS @F0194@
+1 OBJE @O0400@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 06:56:35
+0 @I0553@ INDI
+1 NAME তুপলি /বৰুৱা/
+2 TYPE birth
+2 GIVN তুপলি
+2 SPFX বৰুৱা
+1 SEX F
+1 FAMS @F0194@
+1 OBJE @O0401@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 06:57:00
+0 @I0554@ INDI
+1 NAME বগাই /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN বগাই
+2 SPFX ৰাজখোৱা
+1 SEX M
+1 FAMS @F0195@
+1 OBJE @O0408@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:02:45
+0 @I0555@ INDI
+1 NAME সুমলা /ৰাজখোৱা/
+2 TYPE birth
+2 GIVN সুমলা
+2 SPFX ৰাজখোৱা
+1 SEX F
+1 FAMS @F0195@
+1 OBJE @O0409@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:03:04
+0 @I0556@ INDI
+1 NAME নবীন /দত্ত/
+2 TYPE birth
+2 GIVN নবীন
+2 SPFX দত্ত
+1 SEX M
+1 FAMS @F0196@
+1 OBJE @O0410@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:34:14
+0 @I0557@ INDI
+1 NAME ৰেণু /দত্ত/
+2 TYPE birth
+2 GIVN ৰেণু
+2 SPFX দত্ত
+1 SEX F
+1 FAMS @F0196@
+1 OBJE @O0411@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:34:40
+0 @I0558@ INDI
+1 NAME ৰমেন /চৰকাৰ/
+2 TYPE birth
+2 GIVN ৰমেন
+2 SPFX চৰকাৰ
+1 SEX M
+1 FAMS @F0197@
+1 OBJE @O0412@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:56:41
+0 @I0559@ INDI
+1 NAME শিৱানী /চৰকাৰ/
+2 TYPE birth
+2 GIVN শিৱানী
+2 SPFX চৰকাৰ
+1 SEX F
+1 FAMS @F0197@
+1 OBJE @O0413@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:57:00
+0 @I0560@ INDI
+1 NAME তুলসী /বৰদলৈ/
+2 TYPE birth
+2 GIVN তুলসী
+2 SPFX বৰদলৈ
+1 SEX M
+1 FAMS @F0198@
+1 OBJE @O0442@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:08:48
+0 @I0561@ INDI
+1 NAME তু পৰিৱাৰ /বৰদলৈ/
+2 TYPE birth
+2 GIVN তু পৰিৱাৰ
+2 SPFX বৰদলৈ
+1 SEX F
+1 FAMS @F0198@
+1 OBJE @O0443@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:09:06
+0 @I0562@ INDI
+1 NAME ঠগীৰাম /বৰা/
+2 TYPE birth
+2 GIVN ঠগীৰাম
+2 SPFX বৰা
+1 SEX M
+1 FAMS @F0199@
+1 OBJE @O0440@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:02:11
+0 @I0563@ INDI
+1 NAME তৰদা /বৰা/
+2 TYPE birth
+2 GIVN তৰদা
+2 SPFX বৰা
+1 SEX F
+1 FAMS @F0199@
+1 OBJE @O0441@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:02:35
+0 @I0564@ INDI
+1 NAME লক্ষানন্দ /পাঠক/
+2 TYPE birth
+2 GIVN লক্ষানন্দ
+2 SPFX পাঠক
+1 SEX M
+1 FAMS @F0200@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 09:02:22
+0 @I0565@ INDI
+1 NAME ৰীতা /পাঠক/
+2 TYPE birth
+2 GIVN ৰীতা
+2 SPFX পাঠক
+1 SEX F
+1 FAMS @F0200@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 09:02:22
+0 @I0568@ INDI
+1 NAME জগত /দত্ত/
+2 TYPE birth
+2 GIVN জগত
+2 SPFX দত্ত
+1 SEX M
+1 FAMC @F0085@
+2 PEDI birth
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:19:08
+0 @I0569@ INDI
+1 NAME টংকেশ্বৰ /বৰা/
+2 TYPE birth
+2 GIVN টংকেশ্বৰ
+2 SPFX বৰা
+1 SEX M
+1 FAMS @F0202@
+1 OBJE @O0438@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:57:21
+0 @I0570@ INDI
+1 NAME প্ৰফুল্লি /বৰা/
+2 TYPE birth
+2 GIVN প্ৰফুল্লি
+2 SPFX বৰা
+1 SEX F
+1 FAMS @F0202@
+1 OBJE @O0439@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:57:49
+0 @I0571@ INDI
+1 NAME শ্ৰীৰামুলু চিলামানথালা /কুমাৰ/
+2 TYPE birth
+2 GIVN শ্ৰীৰামুলু চিলামানথালা
+2 SPFX কুমাৰ
+1 SEX M
+1 FAMS @F0203@
+1 OBJE @O0434@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:54:40
+0 @I0572@ INDI
+1 NAME প্ৰেমা ইথিৰাজুলু /কুমাৰ/
+2 TYPE birth
+2 GIVN প্ৰেমা ইথিৰাজুলু
+2 SPFX কুমাৰ
+1 SEX F
+1 FAMS @F0203@
+1 OBJE @O0435@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:55:35
+0 @I0573@ INDI
+1 NAME মনদীপ /ভাসিন/
+2 TYPE birth
+2 GIVN মনদীপ
+2 SPFX ভাসিন
+1 SEX M
+1 FAMS @F0204@
+1 OBJE @O0436@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:56:19
+0 @I0574@ INDI
+1 NAME হৰবিৰ /ভাসিন/
+2 TYPE birth
+2 GIVN হৰবিৰ
+2 SPFX ভাসিন
+1 SEX F
+1 FAMS @F0204@
+1 OBJE @O0437@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:56:42
+0 @I0575@ INDI
+1 NAME ক্ষীৰোদ /দুৱৰা/
+2 TYPE birth
+2 GIVN ক্ষীৰোদ
+2 SPFX দুৱৰা
+1 SEX M
+1 FAMS @F0205@
+1 OBJE @O0446@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:30:50
+0 @I0576@ INDI
+1 NAME ভবানী /দুৱৰা/
+2 TYPE birth
+2 GIVN ভবানী
+2 SPFX দুৱৰা
+1 SEX F
+1 FAMS @F0205@
+1 OBJE @O0445@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:30:50
+0 @I0577@ INDI
+1 NAME প্ৰদীপ /থাকুৰীয়া/
+2 TYPE birth
+2 GIVN প্ৰদীপ
+2 SPFX থাকুৰীয়া
+1 SEX M
+1 FAMS @F0206@
+1 OBJE @O0447@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:38:24
+0 @I0578@ INDI
+1 NAME মন্জু /থাকুৰীয়া/
+2 TYPE birth
+2 GIVN মন্জু
+2 SPFX থাকুৰীয়া
+1 SEX F
+1 FAMS @F0206@
+1 OBJE @O0448@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:38:24
+0 @I0579@ INDI
+1 NAME প্ৰীতিৰাজ /সন্দিকৈ/
+2 TYPE birth
+2 GIVN প্ৰীতিৰাজ
+2 SPFX সন্দিকৈ
+1 SEX M
+1 FAMS @F0207@
+1 OBJE @O0449@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:43:03
+0 @I0580@ INDI
+1 NAME ৰুমী /সন্দিকৈ/
+2 TYPE birth
+2 GIVN ৰুমী
+2 SPFX সন্দিকৈ
+1 SEX F
+1 FAMS @F0207@
+1 OBJE @O0450@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:43:03
+0 @I0581@ INDI
+1 NAME মনিৰাম /দত্ত/
+2 TYPE birth
+2 GIVN মনিৰাম
+2 SPFX দত্ত
+1 SEX M
+1 FAMS @F0208@
+1 OBJE @O0451@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:51:47
+0 @I0582@ INDI
+1 NAME চেনেহী /দত্ত/
+2 TYPE birth
+2 GIVN চেনেহী
+2 SPFX দত্ত
+1 SEX F
+1 FAMS @F0208@
+1 OBJE @O0452@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:51:47
+0 @F0000@ FAM
+1 HUSB @I0000@
+1 WIFE @I0001@
+1 CHIL @I0002@
+1 CHIL @I0003@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 08:58:49
+0 @F0002@ FAM
+1 HUSB @I0006@
+1 WIFE @I0012@
+1 CHIL @I0013@
+1 CHIL @I0014@
+1 CHIL @I0015@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:10:08
+0 @F0003@ FAM
+1 HUSB @I0016@
+1 WIFE @I0002@
+1 CHIL @I0017@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:12:21
+0 @F0004@ FAM
+1 HUSB @I0018@
+1 WIFE @I0013@
+1 CHIL @I0019@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:15:24
+0 @F0005@ FAM
+1 HUSB @I0010@
+1 WIFE @I0020@
+1 CHIL @I0021@
+1 CHIL @I0022@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:18:31
+0 @F0006@ FAM
+1 HUSB @I0023@
+1 WIFE @I0007@
+1 CHIL @I0024@
+1 CHIL @I0025@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:22:54
+0 @F0007@ FAM
+1 HUSB @I0026@
+1 WIFE @I0024@
+1 CHIL @I0027@
+1 CHIL @I0028@
+1 CHIL @I0029@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:27:15
+0 @F0008@ FAM
+1 HUSB @I0030@
+1 WIFE @I0008@
+1 CHIL @I0031@
+1 CHIL @I0032@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:31:55
+0 @F0009@ FAM
+1 HUSB @I0371@
+1 WIFE @I0009@
+1 CHIL @I0034@
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:11:51
+0 @F0010@ FAM
+1 HUSB @I0035@
+1 WIFE @I0011@
+1 CHIL @I0036@
+1 CHIL @I0037@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:48:45
+0 @F0011@ FAM
+1 HUSB @I0036@
+1 WIFE @I0038@
+1 CHIL @I0039@
+1 CHIL @I0040@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:52:20
+0 @F0012@ FAM
+1 HUSB @I0041@
+1 WIFE @I0037@
+1 CHIL @I0042@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:48:52
+0 @F0014@ FAM
+1 HUSB @I0034@
+1 WIFE @I0043@
+1 CHIL @I0044@
+1 CHIL @I0045@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 09:58:38
+0 @F0015@ FAM
+1 HUSB @I0046@
+1 WIFE @I0031@
+1 CHIL @I0047@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 10:03:35
+0 @F0018@ FAM
+1 HUSB @I0057@
+1 WIFE @I0055@
+1 CHIL @I0058@
+1 CHIL @I0059@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 10:17:58
+0 @F0019@ FAM
+1 HUSB @I0056@
+1 WIFE @I0060@
+1 CHIL @I0061@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 10:19:40
+0 @F0021@ FAM
+1 HUSB @I0064@
+1 WIFE @I0070@
+1 CHIL @I0071@
+1 CHIL @I0072@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 10:36:03
+0 @F0022@ FAM
+1 HUSB @I0073@
+1 WIFE @I0071@
+1 CHIL @I0074@
+1 CHIL @I0075@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 10:40:23
+0 @F0023@ FAM
+1 HUSB @I0076@
+1 WIFE @I0072@
+1 CHIL @I0077@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 10:43:37
+0 @F0024@ FAM
+1 HUSB @I0078@
+1 WIFE @I0065@
+1 CHIL @I0079@
+1 CHIL @I0080@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 10:55:03
+0 @F0025@ FAM
+1 HUSB @I0079@
+1 WIFE @I0081@
+1 CHIL @I0082@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:05:48
+0 @F0026@ FAM
+1 HUSB @I0080@
+1 WIFE @I0084@
+1 CHIL @I0085@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 11:09:23
+0 @F0027@ FAM
+1 HUSB @I0086@
+1 WIFE @I0066@
+1 CHIL @I0087@
+1 CHIL @I0088@
+1 CHIL @I0330@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:33:24
+0 @F0028@ FAM
+1 HUSB @I0090@
+1 WIFE @I0087@
+1 CHIL @I0091@
+1 CHIL @I0092@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 11:20:03
+0 @F0029@ FAM
+1 HUSB @I0088@
+1 WIFE @I0093@
+1 CHIL @I0094@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 11:23:30
+0 @F0030@ FAM
+1 HUSB @I0096@
+1 WIFE @I0067@
+1 CHIL @I0097@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 11:28:25
+0 @F0031@ FAM
+1 HUSB @I0098@
+1 WIFE @I0097@
+1 CHIL @I0099@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 11:32:29
+0 @F0032@ FAM
+1 HUSB @I0068@
+1 WIFE @I0100@
+1 CHIL @I0101@
+1 CHIL @I0102@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 11:35:50
+0 @F0033@ FAM
+1 HUSB @I0103@
+1 WIFE @I0069@
+1 CHIL @I0104@
+1 CHIL @I0105@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 11:40:00
+0 @F0034@ FAM
+1 HUSB @I0104@
+1 WIFE @I0106@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 11:41:31
+0 @F0036@ FAM
+1 HUSB @I0112@
+1 WIFE @I0113@
+1 CHIL @I0004@
+1 CHIL @I0115@
+1 CHIL @I0317@
+1 CHIL @I0318@
+1 CHIL @I0319@
+1 CHIL @I0320@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 08:59:40
+0 @F0039@ FAM
+1 HUSB @I0133@
+1 WIFE @I0134@
+1 CHIL @I0131@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 12:39:01
+0 @F0040@ FAM
+1 HUSB @I0119@
+1 WIFE @I0120@
+1 CHIL @I0112@
+1 CHIL @I0146@
+1 CHIL @I0147@
+1 CHIL @I0532@
+1 CHAN
+2 DATE 27 JUN 2026
+3 TIME 08:21:36
+0 @F0041@ FAM
+1 HUSB @I0121@
+1 WIFE @I0122@
+1 CHIL @I0119@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 13:22:51
+0 @F0042@ FAM
+1 HUSB @I0123@
+1 WIFE @I0124@
+1 CHIL @I0121@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 13:29:59
+0 @F0043@ FAM
+1 HUSB @I0125@
+1 WIFE @I0126@
+1 CHIL @I0123@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 08:49:29
+0 @F0045@ FAM
+1 HUSB @I0131@
+1 WIFE @I0130@
+1 CHIL @I0140@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 13:10:35
+0 @F0047@ FAM
+1 HUSB @I0140@
+1 WIFE @I0141@
+1 CHIL @I0315@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 08:46:39
+0 @F0049@ FAM
+1 HUSB @I0152@
+1 WIFE @I0150@
+1 CHIL @I0153@
+1 CHIL @I0154@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 13:39:26
+0 @F0050@ FAM
+1 HUSB @I0151@
+1 WIFE @I0155@
+1 CHIL @I0156@
+1 CHIL @I0157@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 13:45:54
+0 @F0051@ FAM
+1 HUSB @I0032@
+1 WIFE @I0158@
+1 CHIL @I0159@
+1 CHIL @I0160@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 14:33:49
+0 @F0054@ FAM
+1 HUSB @I0172@
+1 WIFE @I0168@
+1 CHIL @I0173@
+1 CHIL @I0174@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 16:57:08
+0 @F0055@ FAM
+1 HUSB @I0163@
+1 WIFE @I0175@
+1 CHIL @I0176@
+1 CHIL @I0177@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 17:07:24
+0 @F0056@ FAM
+1 HUSB @I0164@
+1 WIFE @I0178@
+1 CHIL @I0179@
+1 CHIL @I0180@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 17:45:06
+0 @F0057@ FAM
+1 HUSB @I0181@
+1 WIFE @I0165@
+1 CHIL @I0182@
+1 CHIL @I0183@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 17:50:27
+0 @F0058@ FAM
+1 HUSB @I0184@
+1 WIFE @I0166@
+1 CHIL @I0185@
+1 CHIL @I0186@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 17:55:02
+0 @F0059@ FAM
+1 HUSB @I0146@
+1 WIFE @I0187@
+1 CHIL @I0188@
+1 CHIL @I0189@
+1 CHIL @I0190@
+1 CHIL @I0191@
+1 CHIL @I0192@
+1 CHIL @I0193@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 18:01:31
+0 @F0060@ FAM
+1 HUSB @I0188@
+1 WIFE @I0194@
+1 CHIL @I0195@
+1 CHIL @I0196@
+1 CHIL @I0197@
+1 CHIL @I0198@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 18:10:24
+0 @F0062@ FAM
+1 HUSB @I0201@
+1 WIFE @I0179@
+1 CHIL @I0202@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 18:17:10
+0 @F0063@ FAM
+1 HUSB @I0203@
+1 WIFE @I0195@
+1 CHIL @I0328@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:39:19
+0 @F0064@ FAM
+1 HUSB @I0190@
+1 WIFE @I0205@
+1 CHIL @I0206@
+1 CHIL @I0207@
+1 CHIL @I0208@
+1 CHIL @I0209@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 18:31:00
+0 @F0065@ FAM
+1 HUSB @I0189@
+1 WIFE @I0210@
+1 CHIL @I0211@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 18:33:45
+0 @F0066@ FAM
+1 HUSB @I0211@
+1 WIFE @I0212@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 18:35:14
+0 @F0067@ FAM
+1 HUSB @I0206@
+1 WIFE @I0213@
+1 CHIL @I0214@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:00:23
+0 @F0068@ FAM
+1 HUSB @I0215@
+1 WIFE @I0207@
+1 CHIL @I0216@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:03:01
+0 @F0069@ FAM
+1 HUSB @I0208@
+1 WIFE @I0217@
+1 CHIL @I0218@
+1 CHIL @I0219@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:05:50
+0 @F0070@ FAM
+1 HUSB @I0209@
+1 WIFE @I0220@
+1 CHIL @I0221@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:07:59
+0 @F0071@ FAM
+1 HUSB @I0222@
+1 WIFE @I0192@
+1 CHIL @I0223@
+1 CHIL @I0224@
+1 CHIL @I0225@
+1 CHIL @I0226@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:13:21
+0 @F0072@ FAM
+1 HUSB @I0223@
+1 WIFE @I0227@
+1 CHIL @I0228@
+1 CHIL @I0229@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:21:31
+0 @F0073@ FAM
+1 HUSB @I0230@
+1 WIFE @I0224@
+1 CHIL @I0231@
+1 CHIL @I0232@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:26:05
+0 @F0075@ FAM
+1 HUSB @I0226@
+1 WIFE @I0234@
+1 CHIL @I0236@
+1 CHIL @I0237@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:33:17
+0 @F0076@ FAM
+1 HUSB @I0238@
+1 WIFE @I0225@
+1 CHIL @I0239@
+1 CHIL @I0240@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:44:33
+0 @F0077@ FAM
+1 HUSB @I0241@
+1 WIFE @I0239@
+1 CHIL @I0242@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:47:39
+0 @F0078@ FAM
+1 HUSB @I0147@
+1 WIFE @I0243@
+1 CHIL @I0244@
+1 CHIL @I0245@
+1 CHIL @I0246@
+1 CHIL @I0247@
+1 CHIL @I0248@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:57:16
+0 @F0079@ FAM
+1 HUSB @I0249@
+1 WIFE @I0053@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 19:58:34
+0 @F0080@ FAM
+1 HUSB @I0248@
+1 WIFE @I0250@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:00:42
+0 @F0081@ FAM
+1 HUSB @I0251@
+1 WIFE @I0247@
+1 CHIL @I0304@
+1 CHIL @I0305@
+1 CHIL @I0306@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:05:56
+0 @F0082@ FAM
+1 HUSB @I0252@
+1 WIFE @I0246@
+1 CHIL @I0297@
+1 CHIL @I0298@
+1 CHIL @I0299@
+1 CHIL @I0300@
+1 CHIL @I0301@
+1 CHIL @I0302@
+1 CHIL @I0303@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:04:20
+0 @F0083@ FAM
+1 HUSB @I0245@
+1 WIFE @I0253@
+1 CHIL @I0264@
+1 CHIL @I0265@
+1 CHIL @I0266@
+1 CHIL @I0267@
+1 CHIL @I0268@
+1 CHIL @I0269@
+1 CHIL @I0270@
+1 CHIL @I0271@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:28:38
+0 @F0084@ FAM
+1 HUSB @I0254@
+1 WIFE @I0244@
+1 CHIL @I0255@
+1 CHIL @I0256@
+1 CHIL @I0257@
+1 CHIL @I0258@
+1 CHIL @I0259@
+1 CHIL @I0260@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:14:36
+0 @F0085@ FAM
+1 HUSB @I0261@
+1 WIFE @I0255@
+1 CHIL @I0568@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:19:08
+0 @F0086@ FAM
+1 HUSB @I0257@
+1 WIFE @I0262@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:18:18
+0 @F0087@ FAM
+1 HUSB @I0258@
+1 WIFE @I0263@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:20:01
+0 @F0088@ FAM
+1 HUSB @I0264@
+1 WIFE @I0272@
+1 CHIL @I0280@
+1 CHIL @I0281@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:41:18
+0 @F0089@ FAM
+1 HUSB @I0273@
+1 WIFE @I0265@
+1 CHIL @I0274@
+1 CHIL @I0275@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:33:16
+0 @F0090@ FAM
+1 HUSB @I0276@
+1 WIFE @I0274@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:34:40
+0 @F0091@ FAM
+1 HUSB @I0266@
+1 WIFE @I0277@
+1 CHIL @I0278@
+1 CHIL @I0279@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:39:21
+0 @F0092@ FAM
+1 HUSB @I0282@
+1 WIFE @I0280@
+1 CHIL @I0283@
+1 CHIL @I0367@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:20:06
+0 @F0093@ FAM
+1 HUSB @I0284@
+1 WIFE @I0281@
+1 CHIL @I0285@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:47:11
+0 @F0094@ FAM
+1 HUSB @I0267@
+1 WIFE @I0286@
+1 CHIL @I0287@
+1 CHIL @I0288@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:50:26
+0 @F0095@ FAM
+1 HUSB @I0268@
+1 WIFE @I0289@
+1 CHIL @I0290@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:52:22
+0 @F0096@ FAM
+1 HUSB @I0269@
+1 WIFE @I0291@
+1 CHIL @I0292@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:55:05
+0 @F0097@ FAM
+1 HUSB @I0293@
+1 WIFE @I0270@
+1 CHIL @I0294@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:57:25
+0 @F0098@ FAM
+1 HUSB @I0271@
+1 WIFE @I0295@
+1 CHIL @I0296@
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 20:59:15
+0 @F0099@ FAM
+1 HUSB @I0003@
+1 WIFE @I0307@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:27:56
+0 @F0100@ FAM
+1 HUSB @I0004@
+1 WIFE @I0049@
+1 CHIL @I0310@
+1 CHIL @I0311@
+1 CHIL @I0312@
+1 CHIL @I0053@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 20:15:04
+0 @F0101@ FAM
+1 HUSB @I0115@
+1 WIFE @I0005@
+1 CHIL @I0006@
+1 CHIL @I0007@
+1 CHIL @I0008@
+1 CHIL @I0009@
+1 CHIL @I0000@
+1 CHIL @I0010@
+1 CHIL @I0011@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 08:10:03
+0 @F0105@ FAM
+1 HUSB @I0315@
+1 WIFE @I0128@
+1 CHIL @I0125@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 08:52:08
+0 @F0106@ FAM
+1 HUSB @I0317@
+1 WIFE @I0063@
+1 CHIL @I0064@
+1 CHIL @I0065@
+1 CHIL @I0066@
+1 CHIL @I0067@
+1 CHIL @I0068@
+1 CHIL @I0069@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:09:08
+0 @F0107@ FAM
+1 HUSB @I0319@
+1 WIFE @I0148@
+1 CHIL @I0149@
+1 CHIL @I0150@
+1 CHIL @I0151@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:16:55
+0 @F0108@ FAM
+1 HUSB @I0320@
+1 WIFE @I0161@
+1 CHIL @I0163@
+1 CHIL @I0164@
+1 CHIL @I0165@
+1 CHIL @I0166@
+1 CHIL @I0527@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 16:07:26
+0 @F0109@ FAM
+1 HUSB @I0323@
+1 WIFE @I0198@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:50:40
+0 @F0110@ FAM
+1 HUSB @I0170@
+1 WIFE @I0324@
+1 CHIL @I0200@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:59:49
+0 @F0111@ FAM
+1 HUSB @I0025@
+1 WIFE @I0325@
+1 CHIL @I0326@
+1 CHIL @I0327@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:26:49
+0 @F0112@ FAM
+1 HUSB @I0231@
+1 WIFE @I0233@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:37:09
+0 @F0114@ FAM
+1 HUSB @I0331@
+1 WIFE @I0330@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:37:50
+0 @F0115@ FAM
+1 HUSB @I0332@
+1 WIFE @I0014@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:49:58
+0 @F0116@ FAM
+1 HUSB @I0334@
+1 WIFE @I0015@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:56:13
+0 @F0117@ FAM
+1 HUSB @I0335@
+1 WIFE @I0336@
+1 CHIL @I0001@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 21:23:18
+0 @F0118@ FAM
+1 HUSB @I0339@
+1 WIFE @I0340@
+1 CHIL @I0016@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 21:28:16
+0 @F0119@ FAM
+1 HUSB @I0344@
+1 WIFE @I0345@
+1 CHIL @I0307@
+1 CHIL @I0346@
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 11:36:48
+0 @F0123@ FAM
+1 HUSB @I0346@
+1 WIFE @I0353@
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:30:32
+0 @F0128@ FAM
+1 HUSB @I0311@
+1 WIFE @I0054@
+1 CHIL @I0055@
+1 CHIL @I0056@
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 20:21:35
+0 @F0132@ FAM
+1 HUSB @I0369@
+1 WIFE @I0370@
+1 CHIL @I0023@
+1 CHIL @I0371@
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:09:27
+0 @F0133@ FAM
+1 HUSB @I0372@
+1 WIFE @I0373@
+1 CHIL @I0030@
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:15:06
+0 @F0134@ FAM
+1 HUSB @I0374@
+1 WIFE @I0375@
+1 CHIL @I0035@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:48:28
+0 @F0135@ FAM
+1 HUSB @I0376@
+1 WIFE @I0377@
+1 CHIL @I0020@
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:11:59
+0 @F0176@ FAM
+1 HUSB @I0167@
+1 WIFE @I0527@
+1 CHIL @I0168@
+1 CHIL @I0169@
+1 CHIL @I0170@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 06:56:17
+0 @F0177@ FAM
+1 HUSB @I0347@
+1 WIFE @I0348@
+1 CHIL @I0005@
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 07:10:16
+0 @F0178@ FAM
+1 HUSB @I0528@
+1 WIFE @I0529@
+1 CHIL @I0026@
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 14:17:12
+0 @F0180@ FAM
+1 HUSB @I0532@
+1 WIFE @I0533@
+1 CHAN
+2 DATE 27 JUN 2026
+3 TIME 08:22:55
+0 @F0181@ FAM
+1 HUSB @I0368@
+1 WIFE @I0534@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 08:42:05
+0 @F0183@ FAM
+1 HUSB @I0368@
+1 WIFE @I0534@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:01:05
+0 @F0185@ FAM
+1 HUSB @I0368@
+1 WIFE @I0534@
+1 CHIL @I0012@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:02:53
+0 @F0186@ FAM
+1 HUSB @I0536@
+1 WIFE @I0537@
+1 CHIL @I0332@
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:10:50
+0 @F0187@ FAM
+1 HUSB @I0538@
+1 WIFE @I0539@
+1 CHIL @I0070@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 17:49:16
+0 @F0188@ FAM
+1 HUSB @I0540@
+1 WIFE @I0541@
+1 CHIL @I0076@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 18:00:29
+0 @F0189@ FAM
+1 HUSB @I0542@
+1 WIFE @I0543@
+1 CHIL @I0063@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 20:44:43
+0 @F0190@ FAM
+1 HUSB @I0544@
+1 WIFE @I0545@
+1 CHIL @I0161@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 20:53:04
+0 @F0191@ FAM
+1 HUSB @I0546@
+1 WIFE @I0547@
+1 CHIL @I0201@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 20:55:37
+0 @F0192@ FAM
+1 HUSB @I0548@
+1 WIFE @I0549@
+1 CHIL @I0073@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 20:57:16
+0 @F0193@ FAM
+1 HUSB @I0550@
+1 WIFE @I0551@
+1 CHIL @I0334@
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:53:50
+0 @F0194@ FAM
+1 HUSB @I0552@
+1 WIFE @I0553@
+1 CHIL @I0347@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 06:48:59
+0 @F0195@ FAM
+1 HUSB @I0554@
+1 WIFE @I0555@
+1 CHIL @I0103@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:59:53
+0 @F0196@ FAM
+1 HUSB @I0556@
+1 WIFE @I0557@
+1 CHIL @I0100@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:33:25
+0 @F0197@ FAM
+1 HUSB @I0558@
+1 WIFE @I0559@
+1 CHIL @I0098@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:55:13
+0 @F0198@ FAM
+1 HUSB @I0560@
+1 WIFE @I0561@
+1 CHIL @I0096@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:58:43
+0 @F0199@ FAM
+1 HUSB @I0562@
+1 WIFE @I0563@
+1 CHIL @I0086@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 09:00:26
+0 @F0200@ FAM
+1 HUSB @I0564@
+1 WIFE @I0565@
+1 CHIL @I0081@
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 09:02:22
+0 @F0202@ FAM
+1 HUSB @I0569@
+1 WIFE @I0570@
+1 CHIL @I0090@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:19:47
+0 @F0203@ FAM
+1 HUSB @I0571@
+1 WIFE @I0572@
+1 CHIL @I0331@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:23:01
+0 @F0204@ FAM
+1 HUSB @I0573@
+1 WIFE @I0574@
+1 CHIL @I0093@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:25:55
+0 @F0205@ FAM
+1 HUSB @I0575@
+1 WIFE @I0576@
+1 CHIL @I0158@
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:30:50
+0 @F0206@ FAM
+1 HUSB @I0577@
+1 WIFE @I0578@
+1 CHIL @I0041@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:48:00
+0 @F0207@ FAM
+1 HUSB @I0579@
+1 WIFE @I0580@
+1 CHIL @I0038@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:43:03
+0 @F0208@ FAM
+1 HUSB @I0581@
+1 WIFE @I0582@
+1 CHIL @I0078@
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:51:47
+0 @N0000@ NOTE আমাৰ জী নাতি।
+0 @N0001@ NOTE          কেন্দ্ৰীয় চৰকাৰৰ অধীনৰ কণ্ট্ৰলাৰ এণ্ড অডিটৰ জেনেৰেল অফ ইণ
+1 CONC ্ডিয়াৰ,  অসম,  গুৱাহাটীৰ পৰা ছিনিয়ৰ অডিট অফিচাৰ হিচাপে  ১৯১২ চনৰ মে' ম
+1 CONC াহত  অৱসৰ গ্ৰহণ কৰে আৰু বৰ্তমান কল্যাণপুৰত স্থায়ীভাৱে বসবাস কৰে ।  
+1 CONT 
+1 CONT 
+0 @O0000@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.৩.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:29:10
+0 @O0001@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:30:27
+0 @O0002@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.৩.২.১.১.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.১.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:33:26
+0 @O0003@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.১.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:35:05
+0 @O0004@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.১.১ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.১.১ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:36:26
+0 @O0005@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৪ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:38:16
+0 @O0006@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:38:58
+0 @O0007@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৪.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৪.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:40:23
+0 @O0008@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.২.png
+2 FORM png
+2 TITL ৮.১.২.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:41:16
+0 @O0009@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.২.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:44:56
+0 @O0010@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৪.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৪.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:45:48
+0 @O0011@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৪.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৪
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:47:27
+0 @O0012@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৩.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.৩ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:49:13
+0 @O0013@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৪.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৪.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:49:54
+0 @O0014@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৪.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৪.১ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:50:42
+0 @O0015@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.৪.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৪.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:52:12
+0 @O0016@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.১.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:53:43
+0 @O0017@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.১.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১.১ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:54:30
+0 @O0018@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:55:07
+0 @O0019@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.১.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১.১.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:56:40
+0 @O0020@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:57:36
+0 @O0021@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.১.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১.১ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:58:04
+0 @O0022@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.১.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 21:59:11
+0 @O0023@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৭.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭.২.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:00:01
+0 @O0024@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৭.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:01:22
+0 @O0025@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৭.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭.২ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:01:57
+0 @O0026@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.২.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২.২.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:03:32
+0 @O0027@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.২.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২.২.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:06:34
+0 @O0028@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.২.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:07:12
+0 @O0029@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:08:33
+0 @O0030@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২.১ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:08:55
+0 @O0031@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.২.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:10:09
+0 @O0032@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.২.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২.২ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:10:29
+0 @O0033@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.২.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.২.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:13:08
+0 @O0034@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:14:09
+0 @O0035@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.১.png
+2 FORM png
+2 TITL ৮.৩.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:15:37
+0 @O0036@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.৫.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৫
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:17:00
+0 @O0037@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.৫ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৫ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:17:57
+0 @O0038@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.১.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.১.৩
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:18:36
+0 @O0039@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.২ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:19:10
+0 @O0040@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:20:05
+0 @O0041@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.১ক.png
+2 FORM png
+2 TITL ৮.৩.১ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:21:03
+0 @O0042@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.১.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.১.৩ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:21:46
+0 @O0043@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.৫.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৫.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:23:15
+0 @O0044@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.৫.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৫.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:23:41
+0 @O0045@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.১.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১.২.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:24:58
+0 @O0046@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.১.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১.২ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:25:43
+0 @O0047@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:26:03
+0 @O0048@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১.২
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:26:25
+0 @O0049@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.৪ক.png
+2 FORM png
+2 TITL ৮.১.৩.৪ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:27:12
+0 @O0050@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.৪.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৪
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:27:28
+0 @O0051@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.৭.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৭.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:28:20
+0 @O0052@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৩.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:29:22
+0 @O0053@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:30:13
+0 @O0054@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৩.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.১ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:30:59
+0 @O0055@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৩.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.২ক
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:31:40
+0 @O0056@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৩.১.১.JPG
+2 FORM JPG
+2 TITL ৮.১.২.৩.১.১
+1 CHAN
+2 DATE 17 JUN 2026
+3 TIME 22:32:33
+0 @O0057@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৫.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৫.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:27:37
+0 @O0058@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৫.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৫.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:29:13
+0 @O0059@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৭.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৭
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:31:33
+0 @O0060@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:32:22
+0 @O0061@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৩.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৩.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:32:58
+0 @O0062@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৭ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৭ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:34:33
+0 @O0063@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:35:21
+0 @O0064@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:36:18
+0 @O0065@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:36:45
+0 @O0066@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.৩.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:39:32
+0 @O0067@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.৩.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:39:58
+0 @O0068@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.২.৫.৩.১.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৩.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:41:53
+0 @O0069@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.৩.১ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৩.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:42:59
+0 @O0070@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৩.৩.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:44:34
+0 @O0071@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৪.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:45:44
+0 @O0072@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:46:18
+0 @O0073@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.১.২ক.JPG
+2 FORM JPG
+2 TITL ৮.১.১.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:46:43
+0 @O0074@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:47:09
+0 @O0075@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.৩.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৩.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:48:56
+0 @O0076@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৩.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:49:40
+0 @O0077@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৬.১.jpeg
+2 FORM jpeg
+2 TITL ৮.১.২.৬.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:50:31
+0 @O0078@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:51:37
+0 @O0079@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৬.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৬.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:52:09
+0 @O0080@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.১.২.২.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:52:56
+0 @O0081@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.৮.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৮.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:53:38
+0 @O0082@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৫.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৫
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:54:31
+0 @O0083@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:55:00
+0 @O0084@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.৬ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:55:32
+0 @O0085@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৬.৩.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৩.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:56:21
+0 @O0086@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:57:26
+0 @O0087@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৫.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৫.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 04:58:02
+0 @O0088@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৩.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:00:51
+0 @O0089@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৩.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:01:36
+0 @O0090@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৩.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৩.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:03:29
+0 @O0091@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.৫ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৫ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:03:58
+0 @O0092@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:05:13
+0 @O0093@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.২.png
+2 FORM png
+2 TITL ৮.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:06:06
+0 @O0094@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.২.২.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.২.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:07:10
+0 @O0095@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৬.jpg
+2 FORM jpg
+2 TITL ৬
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:09:43
+0 @O0096@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৬ক.jpg
+2 FORM jpg
+2 TITL ৬ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:10:14
+0 @O0097@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.১.jpg
+2 FORM jpg
+2 TITL ৮.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:10:51
+0 @O0098@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.২.png
+2 FORM png
+2 TITL ৮.২.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:11:27
+0 @O0099@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৫.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৫.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:12:23
+0 @O0100@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৭.jpg
+2 FORM jpg
+2 TITL ৭
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:13:25
+0 @O0101@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৭ক.jpg
+2 FORM jpg
+2 TITL ৭ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:13:46
+0 @O0102@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৫.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:14:21
+0 @O0103@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৮.jpg
+2 FORM jpg
+2 TITL ৮
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:15:31
+0 @O0104@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৮ ক.jpg
+2 FORM jpg
+2 TITL ৮ ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:15:52
+0 @O0105@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৫.jpg
+2 FORM jpg
+2 TITL ৫
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:16:25
+0 @O0106@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৫ক.jpg
+2 FORM jpg
+2 TITL ৫ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:16:39
+0 @O0107@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.২.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.২.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:19:51
+0 @O0108@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.২ক.png
+2 FORM png
+2 TITL ৮.২.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:20:36
+0 @O0109@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৫.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:34:29
+0 @O0110@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৫.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:36:26
+0 @O0111@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৫.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 05:38:24
+0 @O0112@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৫.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৫
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:33:43
+0 @O0113@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৫ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৫ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:34:22
+0 @O0114@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:35:34
+0 @O0115@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:36:05
+0 @O0116@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.১.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.১.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:37:11
+0 @O0117@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৩.png
+2 FORM png
+2 TITL ৮.১.২.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:38:48
+0 @O0118@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৩ক.png
+2 FORM png
+2 TITL ৮.১.২.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:39:35
+0 @O0119@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৬.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৬
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:41:11
+0 @O0120@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৬ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৬ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:41:59
+0 @O0121@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৭.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:42:48
+0 @O0122@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৭ক.png
+2 FORM png
+2 TITL ৮.১.২.৭ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:44:00
+0 @O0123@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:44:39
+0 @O0124@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:45:27
+0 @O0125@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.৫.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৫
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:47:22
+0 @O0126@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.৫ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৫ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:48:06
+0 @O0127@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.৬.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৬
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:48:35
+0 @O0128@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৩.৬.ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৬.ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:48:58
+0 @O0129@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৫.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:49:46
+0 @O0130@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৫.২.ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.২.ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:50:17
+0 @O0131@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:51:56
+0 @O0132@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:52:20
+0 @O0133@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:53:00
+0 @O0134@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:53:28
+0 @O0135@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:54:46
+0 @O0136@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.৪.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:55:17
+0 @O0137@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৪ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:55:59
+0 @O0138@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.১.১ক.jpg
+2 FORM jpg
+2 TITL ৮.২.১.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 09:57:59
+0 @O0139@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.১.১.jpg
+2 FORM jpg
+2 TITL ৮.২.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:27:15
+0 @O0140@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.১.২.jpg
+2 FORM jpg
+2 TITL ৮.২.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:28:38
+0 @O0141@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.১.৩.jpg
+2 FORM jpg
+2 TITL ৮.২.১.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:29:17
+0 @O0142@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.১.৪.jpg
+2 FORM jpg
+2 TITL ৮.২.১.৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:29:54
+0 @O0143@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.১.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.২.১.৪ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:51:33
+0 @O0144@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.২.১.jpg
+2 FORM jpg
+2 TITL ৮.২.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:52:19
+0 @O0145@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.২.২.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:53:19
+0 @O0146@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:00:08
+0 @O0147@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৩.১ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:00:45
+0 @O0148@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:01:44
+0 @O0149@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৩.২ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:02:08
+0 @O0150@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৩.৩.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:02:59
+0 @O0151@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৩.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 11:03:55
+0 @O0152@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.৫.jpg
+2 FORM jpg
+2 TITL ৮.৩.৫
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:16:27
+0 @O0153@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.৫ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.৫ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:17:16
+0 @O0154@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.৪.jpg
+2 FORM jpg
+2 TITL ৮.৩.৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:18:08
+0 @O0155@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.৪ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:18:35
+0 @O0156@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.২ক.jpeg
+2 FORM jpeg
+2 TITL ৮.৩.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:19:57
+0 @O0157@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:20:27
+0 @O0158@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:21:56
+0 @O0159@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.৪.jpg
+2 FORM jpg
+2 TITL ৮.২.৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:22:38
+0 @O0160@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.৫.jpg
+2 FORM jpg
+2 TITL ৮.২.৫
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:23:23
+0 @O0161@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.৫ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৫ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:23:56
+0 @O0162@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.৩.jpg
+2 FORM jpg
+2 TITL ৮.২.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:24:29
+0 @O0163@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.২.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:25:54
+0 @O0164@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.৫.jpg
+2 FORM jpg
+2 TITL ৮.১.৫
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:29:28
+0 @O0165@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.৪.jpg
+2 FORM jpg
+2 TITL ৮.১.৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:30:01
+0 @O0166@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:30:47
+0 @O0167@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:31:20
+0 @O0168@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:33:23
+0 @O0169@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:33:53
+0 @O0170@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:34:18
+0 @O0171@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.৬.jpg
+2 FORM jpg
+2 TITL ৮.১.৬
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:44:12
+0 @O0172@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\Camera Photo (511).jpg
+2 FORM jpg
+2 TITL Camera Photo (511)
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:44:35
+0 @O0173@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৩.৪.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:47:19
+0 @O0174@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৩.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.৪ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:49:03
+0 @O0175@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:49:38
+0 @O0176@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.১ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:50:11
+0 @O0177@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.১ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 12:54:12
+0 @O0178@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.১.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:02:12
+0 @O0179@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.১.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:02:59
+0 @O0180@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:03:39
+0 @O0181@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.১.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:04:21
+0 @O0182@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:04:52
+0 @O0183@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৫.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:07:44
+0 @O0184@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৫.২.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.২.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:08:14
+0 @O0185@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৫.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৫.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:08:35
+0 @O0186@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৬.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৬.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:09:20
+0 @O0187@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৬.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৬.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:10:02
+0 @O0188@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৬.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৬.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:10:21
+0 @O0189@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৫.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৫.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:11:05
+0 @O0190@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৭.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:14:51
+0 @O0191@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৭.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:15:23
+0 @O0192@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৫.১ক.jpeg
+2 FORM jpeg
+2 TITL ৮.১.২.৫.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:16:51
+0 @O0193@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৫.১.JPG
+2 FORM JPG
+2 TITL ৮.১.২.৫.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:17:37
+0 @O0194@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৪.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৪.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:18:37
+0 @O0195@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:19:36
+0 @O0196@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.২.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:29:39
+0 @O0197@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.২.২.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২.২.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:30:01
+0 @O0198@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.২.১.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২.১.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:31:29
+0 @O0199@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.২.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:31:52
+0 @O0200@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.২.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:32:15
+0 @O0201@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.১.২.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:33:36
+0 @O0202@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.১.২.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:34:41
+0 @O0203@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.১.২.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:35:03
+0 @O0204@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৬.১.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:36:29
+0 @O0205@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৬.১.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:37:04
+0 @O0206@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.৬.১.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:39:11
+0 @O0207@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.৩.২.১.২.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.১.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:41:47
+0 @O0208@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.৪.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৪.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:44:08
+0 @O0209@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.৪.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৪.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:44:45
+0 @O0210@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.১.১.১.jpg
+2 FORM jpg
+2 TITL ৮.২.১.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:46:24
+0 @O0211@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৩.১.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:47:49
+0 @O0212@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৩.৪.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.৪.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 13:49:06
+0 @O0213@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.১.১.১.jpg
+2 FORM jpg
+2 TITL ৮.২.১.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:54:52
+0 @O0214@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.৪.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৪.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:55:49
+0 @O0215@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.৪.২.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৪.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:56:14
+0 @O0216@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.১.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:56:48
+0 @O0217@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.১.২.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:57:31
+0 @O0218@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.২.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:58:08
+0 @O0219@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.২.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:58:52
+0 @O0220@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 17:59:38
+0 @O0221@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.৬.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৬.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:01:10
+0 @O0222@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.৫.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৫.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:01:46
+0 @O0223@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.৪.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৪.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:02:50
+0 @O0224@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.৪.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৪.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:03:27
+0 @O0225@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:04:07
+0 @O0226@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.১.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:05:09
+0 @O0227@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:07:08
+0 @O0228@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৩.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:41:23
+0 @O0229@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৩.৩.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.৩.৩.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:42:00
+0 @O0230@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.১.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:45:15
+0 @O0231@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.১.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:45:33
+0 @O0232@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.১.২.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:46:51
+0 @O0233@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.১.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:51:01
+0 @O0234@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.১.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:56:37
+0 @O0235@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.১.৩.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:56:53
+0 @O0236@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.২.১.JPG
+2 FORM JPG
+2 TITL ৮.১.২.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:57:46
+0 @O0237@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:58:25
+0 @O0238@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.২.২.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 18:59:11
+0 @O0239@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৩ক.jpg
+2 FORM jpg
+2 TITL ৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:06:16
+0 @O0240@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.১.jpg
+2 FORM jpg
+2 TITL ৮.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:07:55
+0 @O0241@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৫ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৫ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:09:40
+0 @O0242@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.২.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:10:18
+0 @O0243@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.৩ক.png
+2 FORM png
+2 TITL ৮.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:12:10
+0 @O0244@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৮.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৮
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:13:07
+0 @O0245@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.৩.jpg
+2 FORM jpg
+2 TITL ৮.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:13:40
+0 @O0246@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৮.ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৮.ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:16:42
+0 @O0247@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.২ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:17:19
+0 @O0248@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.১.jpg
+2 FORM jpg
+2 TITL ৮.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:18:41
+0 @O0249@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\২.jpg
+2 FORM jpg
+2 TITL ২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:20:07
+0 @O0250@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\২ক.jpg
+2 FORM jpg
+2 TITL ২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:20:40
+0 @O0251@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৪ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:22:11
+0 @O0252@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:22:59
+0 @O0253@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৬ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৬ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:24:40
+0 @O0254@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৩.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৩.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:25:38
+0 @O0255@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:28:36
+0 @O0256@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\১.jpg
+2 FORM jpg
+2 TITL ১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:29:43
+0 @O0257@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\১ক.jpg
+2 FORM jpg
+2 TITL ১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:30:03
+0 @O0258@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৩.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:37:29
+0 @O0259@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.৩.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:39:09
+0 @O0260@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.১.৬.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.৩.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:39:59
+0 @O0261@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.৬.jpg
+2 FORM jpg
+2 TITL ৮.২.৬
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:40:48
+0 @O0262@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:44:24
+0 @O0263@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.১.২ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:46:04
+0 @O0264@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৪.jpg
+2 FORM jpg
+2 TITL ৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:50:20
+0 @O0265@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\Sl no wise photo\৪ক.jpg
+2 FORM jpg
+2 TITL ৪ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:50:36
+0 @O0266@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:51:10
+0 @O0267@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.২ক.jpg
+2 FORM jpg
+2 TITL ৮.২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 19:56:02
+0 @O0268@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.৪.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:02:11
+0 @O0269@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.২.৫.৪ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:03:39
+0 @O0270@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৭.১.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭.১.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:07:50
+0 @O0271@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৭.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭.১.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:08:52
+0 @O0272@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:11:48
+0 @O0273@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৩.২.১.jpg
+2 FORM jpg
+2 TITL ৮.২.৩.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 20:41:28
+0 @O0274@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\১.jpg
+2 FORM jpg
+2 TITL ১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:21:16
+0 @O0275@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\১ক.jpg
+2 FORM jpg
+2 TITL ১ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:22:05
+0 @O0276@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\২.jpg
+2 FORM jpg
+2 TITL ২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:25:28
+0 @O0277@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\২ক.jpg
+2 FORM jpg
+2 TITL ২ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:26:03
+0 @O0278@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৩.jpg
+2 FORM jpg
+2 TITL ৩
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:26:33
+0 @O0279@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৩ক.jpg
+2 FORM jpg
+2 TITL ৩ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:26:52
+0 @O0280@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৪.jpg
+2 FORM jpg
+2 TITL ৪
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:27:32
+0 @O0281@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৪ক.jpg
+2 FORM jpg
+2 TITL ৪ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:28:13
+0 @O0282@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৫.jpg
+2 FORM jpg
+2 TITL ৫
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:28:47
+0 @O0283@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৫ক.jpg
+2 FORM jpg
+2 TITL ৫ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:29:25
+0 @O0284@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৬.jpg
+2 FORM jpg
+2 TITL ৬
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:30:44
+0 @O0285@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৬ক.jpg
+2 FORM jpg
+2 TITL ৬ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:31:12
+0 @O0286@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৭.jpg
+2 FORM jpg
+2 TITL ৭
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:31:41
+0 @O0287@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৭ক.jpg
+2 FORM jpg
+2 TITL ৭ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:32:03
+0 @O0288@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৮.jpg
+2 FORM jpg
+2 TITL ৮
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:32:26
+0 @O0289@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৮ ক.jpg
+2 FORM jpg
+2 TITL ৮ ক
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 21:33:04
+0 @O0290@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৩.২.১.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৩.২.১
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 23:09:32
+0 @O0291@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৩.২.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৩.২.২
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 23:10:36
+0 @O0292@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\অতিৰিক্ত১.png
+2 FORM png
+2 TITL অতিৰিক্ত১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:41:23
+0 @O0293@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\অতিৰিক্ত১ক.png
+2 FORM png
+2 TITL অতিৰিক্ত১ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:42:09
+0 @O0294@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত২.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:43:19
+0 @O0295@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত২ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:43:45
+0 @O0296@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:44:55
+0 @O0297@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:45:30
+0 @O0298@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৪.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৪
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:46:07
+0 @O0299@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৪ক (1).JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৪ক (1)
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:46:21
+0 @O0300@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২.১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:47:00
+0 @O0301@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২.১ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২.১ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:47:41
+0 @O0302@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত২.১.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২.১.১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:48:17
+0 @O0303@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত২.১.১ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২.১.১ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:49:12
+0 @O0304@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২.২.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২.২
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:51:08
+0 @O0305@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২.২ক.png
+2 FORM png
+2 TITL অতিৰিক্ত২.২ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:51:23
+0 @O0306@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত২.২.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২.২.১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:52:15
+0 @O0307@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৩.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩.১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:53:00
+0 @O0308@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৩.১ক.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৩.১ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:53:35
+0 @O0309@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৩.২.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৩.২
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:54:08
+0 @O0310@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৩.২ক.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৩.২ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:54:58
+0 @O0311@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৪.১.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৪.১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:55:26
+0 @O0312@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৪.১ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৪.১ক
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:55:46
+0 @O0313@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\অতিৰিক্ত৩.১.১.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৩.১.১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:56:47
+0 @O0314@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\অতিৰিক্ত২.১.১.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২.১.১.১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 16:58:35
+0 @O0315@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\অতিৰিক্ত৩.২.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩.২.১
+1 CHAN
+2 DATE 19 JUN 2026
+3 TIME 17:06:33
+0 @O0316@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.১.২.৪.১.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৪.১.২
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 11:12:17
+0 @O0317@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২.১.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত২.১
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 20:13:09
+0 @O0318@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২.১ক.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত২.১ক
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 20:13:38
+0 @O0319@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৪.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.৪.১
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:08:22
+0 @O0320@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৪.১ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.৪.১ক
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:10:02
+0 @O0321@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.২ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.২ক
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:10:59
+0 @O0322@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.২.১.jpeg
+2 FORM jpeg
+2 TITL ৮.৩.২.২.১
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:13:29
+0 @O0323@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.২.২.১ক
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:14:06
+0 @O0324@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\৮.৩.২.১.১.২.jpeg
+2 FORM jpeg
+2 TITL ৮.৩.২.১.১.২
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:18:48
+0 @O0325@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.১.২.png
+2 FORM png
+2 TITL ৮.২.১.২
+1 CHAN
+2 DATE 20 JUN 2026
+3 TIME 21:34:40
+0 @O0326@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৭.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৭
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:16:32
+0 @O0327@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৭ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৭ক
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:18:50
+0 @O0328@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৬.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৬
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:19:30
+0 @O0329@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৬ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৬ক
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:19:43
+0 @O0330@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৫.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৫
+1 CHAN
+2 DATE 21 JUN 2026
+3 TIME 09:22:33
+0 @O0331@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৪ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 10:06:56
+0 @O0332@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.২.৬ (2).jpg
+2 FORM jpg
+2 TITL ৮.৩.২.৬ (2)
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:36:39
+0 @O0333@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৮.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৮
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:49:12
+0 @O0334@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৮ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৮ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 18:49:35
+0 @O0335@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৩.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:03:36
+0 @O0336@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৩ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:03:52
+0 @O0337@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৪.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৪
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:04:47
+0 @O0338@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৪ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৪ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:05:20
+0 @O0339@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৫.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৫
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:09:11
+0 @O0340@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৫ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৫ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:09:35
+0 @O0341@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৬.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত৬
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:12:30
+0 @O0342@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৬ক.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত৬ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:12:43
+0 @O0343@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৭.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৭
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:13:45
+0 @O0344@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৭ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৭ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:14:23
+0 @O0345@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৮.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৮
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:15:21
+0 @O0346@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৮ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৮ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:15:54
+0 @O0347@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৯.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৯
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:16:23
+0 @O0348@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৯ক.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৯ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:16:43
+0 @O0349@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৫.১.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত৫.১
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:17:10
+0 @O0350@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৫.১ক.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত৫.১ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:17:28
+0 @O0351@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৫.১.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৫.১.১
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:18:06
+0 @O0352@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৫.১.১ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৫.১.১ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:18:23
+0 @O0353@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৫.২.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৫.২
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:19:30
+0 @O0354@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৫.২ক.png
+2 FORM png
+2 TITL অতিৰিক্ত৫.২ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:19:43
+0 @O0355@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৫.২.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৫.২.১
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:20:15
+0 @O0356@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৮.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৮.১
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:20:44
+0 @O0357@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৮.১ক.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৮.১ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:21:17
+0 @O0358@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৮.২.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৮.২
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:21:57
+0 @O0359@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৮.২ক.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৮.২ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:22:18
+0 @O0360@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৯.১.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৯.১
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:22:51
+0 @O0361@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\অতিৰিক্ত৯.১ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৯.১ক
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:23:09
+0 @O0362@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\অতিৰিক্ত৮.১.১.JPG
+2 FORM JPG
+2 TITL অতিৰিক্ত৮.১.১
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:23:58
+0 @O0363@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\অতিৰিক্ত৮.২.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৮.২.১
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:24:50
+0 @O0364@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\5th Generation\অতিৰিক্ত৫.১.১.১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৫.১.১.১
+1 CHAN
+2 DATE 23 JUN 2026
+3 TIME 22:25:22
+0 @O0365@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.২.১.jpeg
+2 FORM jpeg
+2 TITL ৮.৩.২.২.১
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 07:03:00
+0 @O0366@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.৩.২.১.২ক.jpeg
+2 FORM jpeg
+2 TITL ৮.৩.২.১.২ক
+1 CHAN
+2 DATE 25 JUN 2026
+3 TIME 12:59:30
+0 @O0367@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.৩.১.jpeg
+2 FORM jpeg
+2 TITL ৮.২.৫.৩.১
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:52:37
+0 @O0368@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\4th Generation\৮.২.৫.৩.২.jpeg
+2 FORM jpeg
+2 TITL ৮.২.৫.৩.২
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:54:28
+0 @O0369@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.৩.jpeg
+2 FORM jpeg
+2 TITL ৮.২.৫.৩
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:55:18
+0 @O0370@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.২.৫.৩ক.jpeg
+2 FORM jpeg
+2 TITL ৮.২.৫.৩ক
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 11:56:24
+0 @O0371@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.২.jpg
+2 FORM jpg
+2 TITL ৮.১.২.২
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 12:20:23
+0 @O0372@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.১ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.১ক
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 12:22:15
+0 @O0373@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত (2).jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত (2)
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 13:31:09
+0 @O0374@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত১০.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১০
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 14:20:29
+0 @O0375@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত১০ক.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত১০ক
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 14:20:48
+0 @O0376@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.৬.১.jpg
+2 FORM jpg
+2 TITL ৮.১.৬.১
+1 CHAN
+2 DATE 26 JUN 2026
+3 TIME 16:08:42
+0 @O0377@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\টুণীৰাম.jpg
+2 FORM jpg
+2 TITL টুণীৰাম
+1 CHAN
+2 DATE 27 JUN 2026
+3 TIME 08:37:29
+0 @O0378@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\টুণীৰামৰ পৰিৱাৰ.jpg
+2 FORM jpg
+2 TITL টুণীৰামৰ পৰিৱাৰ
+1 CHAN
+2 DATE 27 JUN 2026
+3 TIME 08:37:46
+0 @O0379@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত২ক.png
+2 FORM png
+2 TITL অতিৰিক্ত২ক
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 08:45:52
+0 @O0380@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত১২.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত১২
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:12:19
+0 @O0381@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত১২ক.jpeg
+2 FORM jpeg
+2 TITL অতিৰিক্ত১২ক
+1 CHAN
+2 DATE 29 JUN 2026
+3 TIME 09:12:46
+0 @O0382@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Eight Family\৮ক.jpg
+2 FORM jpg
+2 TITL ৮ক
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 08:47:08
+0 @O0383@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.২.jpg
+2 FORM jpg
+2 TITL ৮.২
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 09:50:34
+0 @O0384@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.৩.jpg
+2 FORM jpg
+2 TITL ৮.৩
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 09:52:24
+0 @O0385@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.৪ক
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 09:55:43
+0 @O0386@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.৩ক
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:13:33
+0 @O0387@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.২.jpg
+2 FORM jpg
+2 TITL ৮.২.২
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:19:17
+0 @O0388@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.২.২ক.jpg
+2 FORM jpg
+2 TITL ৮.২.২ক
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:20:49
+0 @O0389@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.১ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.১ক
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:45:49
+0 @O0390@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\৮.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.১
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 10:46:43
+0 @O0391@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\৮.৪.jpg
+2 FORM jpg
+2 TITL ৮.৪
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 11:06:59
+0 @O0392@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত১৪.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৪
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 17:48:07
+0 @O0393@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত১৪ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৪ক
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 17:49:08
+0 @O0394@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২১ (1).jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২১ (1)
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 17:59:21
+0 @O0395@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২১ (2).jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২১ (2)
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 18:00:23
+0 @O0396@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত১৯.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৯
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:15:06
+0 @O0397@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত১৯ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৯ক
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:15:56
+0 @O0398@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত১৩ক (2).jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৩ক (2)
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:55:22
+0 @O0399@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত১৩ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৩ক
+1 CHAN
+2 DATE 1 JUL 2026
+3 TIME 21:55:48
+0 @O0400@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\অতিৰিক্ত২২.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২২
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 06:56:31
+0 @O0401@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\অতিৰিক্ত২২ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২২ক
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 06:56:58
+0 @O0402@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২০.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২০
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:12:08
+0 @O0403@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২০ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২০ক
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:12:30
+0 @O0404@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\অতৰিক্ত১৬.jpg
+2 FORM jpg
+2 TITL অতৰিক্ত১৬
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:24:56
+0 @O0405@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\অতৰিক্ত১৬ক.jpg
+2 FORM jpg
+2 TITL অতৰিক্ত১৬ক
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:25:10
+0 @O0406@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\অতিৰিক্ত১৭.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৭
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:36:59
+0 @O0407@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\1st Generation\অতিৰিক্ত১৭ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৭ক
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 07:37:25
+0 @O0408@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত১৫.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৫
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:02:43
+0 @O0409@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত১৫ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত১৫ক
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:03:02
+0 @O0410@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত২৩.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৩
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:34:13
+0 @O0411@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত২৩ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৩ক
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:34:38
+0 @O0412@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২৭.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৭
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:56:38
+0 @O0413@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২৭ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৭ক
+1 CHAN
+2 DATE 2 JUL 2026
+3 TIME 08:56:58
+0 @O0414@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.১.২.৭ক.jpg
+2 FORM jpg
+2 TITL ৮.১.২.৭ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 08:09:52
+0 @O0415@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.১
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:53:02
+0 @O0416@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.১ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.১ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:53:42
+0 @O0417@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.২
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:54:15
+0 @O0418@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.৩.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.৩
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:54:49
+0 @O0419@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.৩ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.৩ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:55:29
+0 @O0420@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.৪.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.৪
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:56:07
+0 @O0421@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.৪ক.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.৪ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:57:21
+0 @O0422@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.৫.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.৫
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:57:52
+0 @O0423@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.৫.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.৫
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:58:28
+0 @O0424@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.১.৬.jpg
+2 FORM jpg
+2 TITL ৮.৩.১.৬
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 20:59:29
+0 @O0425@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৩.১.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩.১
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:00:18
+0 @O0426@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৩.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩.২
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:00:58
+0 @O0427@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৩.৩.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩.৩
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:01:40
+0 @O0428@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৩.৪.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩.৪
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:02:27
+0 @O0429@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৩.৫.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩.৫
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:02:54
+0 @O0430@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৩.৬.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩.৬
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:03:25
+0 @O0431@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৩.৭.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩.৭
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:04:01
+0 @O0432@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৪.২.jpg
+2 FORM jpg
+2 TITL ৮.৩.৪.২
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:05:04
+0 @O0433@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৪.৩.jpg
+2 FORM jpg
+2 TITL ৮.৩.৪.৩
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 21:05:34
+0 @O0434@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩০.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩০
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:54:38
+0 @O0435@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩০ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩০ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:55:32
+0 @O0436@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২৯.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৯
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:56:18
+0 @O0437@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২৯ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৯ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:56:40
+0 @O0438@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২৮.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৮
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:57:19
+0 @O0439@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২৮ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৮ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 22:57:47
+0 @O0440@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২৫.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৫
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:02:09
+0 @O0441@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত২৫ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৫ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:02:33
+0 @O0442@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত২৬.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৬
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:08:46
+0 @O0443@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত২৬ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত২৬ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:09:04
+0 @O0444@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\৮.৩.৩.৭.jpg
+2 FORM jpg
+2 TITL ৮.৩.৩.৭
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:16:07
+0 @O0445@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩১ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩১ক
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:30:20
+0 @O0446@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩১.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩১
+1 CHAN
+2 DATE 3 JUL 2026
+3 TIME 23:30:41
+0 @O0447@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩৩.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩৩
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:37:27
+0 @O0448@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩৩ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩৩ক
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:38:17
+0 @O0449@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩২.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩২
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:42:05
+0 @O0450@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\3rd Generation\অতিৰিক্ত৩২ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩২ক
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:42:57
+0 @O0451@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৩৪.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩৪
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:50:48
+0 @O0452@ OBJE
+1 FILE c:\users\prasanta\onedrive\pictures\..\Desktop\2nd Generation\অতিৰিক্ত৩৪ক.jpg
+2 FORM jpg
+2 TITL অতিৰিক্ত৩৪ক
+1 CHAN
+2 DATE 8 JUL 2026
+3 TIME 18:51:40
+0 TRLR
