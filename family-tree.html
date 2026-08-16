@@ -3,42 +3,58 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="শদিয়া চকীয়াল বৰুৱা পৰিয়ালৰ বংশবৃক্ষ।">
+  <meta name="description" content="শদিয়া চকীয়াল বৰুৱা পৰিয়ালৰ সন্ধানযোগ্য বংশবৃক্ষ।">
   <title>বংশবৃক্ষ | শদিয়া চকীয়াল বৰুৱা পৰিয়াল</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <a class="skip-link" href="#main-content">মূল বিষয়বস্তুলৈ যাওক</a>
-  <header class="site-header">
-    <div class="header-inner container">
-      <a class="brand" href="index.html" aria-label="Home page"><span class="brand-mark" aria-hidden="true">✦</span><span><strong>শদিয়া চকীয়াল বৰুৱা পৰিয়াল</strong><small>Digital Heritage Archive</small></span></a>
-      <nav class="site-nav" aria-label="প্ৰধান নেভিগেচন">
-        <a href="index.html">Home</a><a href="index.html#about">About</a><a href="index.html#history">History</a><a class="active" href="family-tree.html">Family Tree</a><a href="index.html#ancestors">Ancestors</a><a href="index.html#gallery">Photo Gallery</a><a href="index.html#documents">Documents</a><a href="index.html#contact">Contact</a>
-      </nav>
-    </div>
-  </header>
+  <header class="site-header"><div class="header-inner container">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">✦</span><span><strong>শদিয়া চকীয়াল বৰুৱা পৰিয়াল</strong><small>Digital Heritage Archive</small></span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-navigation"><span class="sr-only">মেনু খোলক</span><span aria-hidden="true">☰</span></button>
+    <nav id="site-navigation" class="site-nav" aria-label="প্ৰধান নেভিগেচন"><a href="index.html">Home</a><a href="index.html#about">About</a><a href="index.html#history">History</a><a class="active" href="family-tree.html">Family Tree</a><a href="index.html#ancestors">Ancestors</a><a href="index.html#gallery">Photo Gallery</a><a href="index.html#documents">Documents</a><a href="index.html#contact">Contact</a></nav>
+  </div></header>
   <main id="main-content">
-    <section class="hero" aria-labelledby="page-title">
-      <div class="hero-pattern pattern-top" aria-hidden="true"></div><div class="hero-river" aria-hidden="true"></div>
-      <div class="hero-content container"><p class="eyebrow">বংশাৱলী</p><h1 id="page-title">আমাৰ বংশবৃক্ষ</h1><p class="hero-subtitle">পূৰ্বপুৰুষৰ পৰা বৰ্তমান প্ৰজন্মলৈ পাৰিবাৰিক সম্পৰ্কৰ এক সজোৱা নক্সা।</p></div>
-      <div class="hero-pattern pattern-bottom" aria-hidden="true"></div>
-    </section>
-    <section class="section container" aria-labelledby="tree-title">
-      <div class="section-heading centered"><p class="eyebrow">পৰিয়ালৰ ধাৰাবাহিকতা</p><h2 id="tree-title">বংশবৃক্ষৰ তথ্য</h2><p>তলৰ নামসমূহ উদাহৰণস্বৰূপ। আপোনাৰ পৰিয়ালৰ সঠিক নাম, জন্ম-মৃত্যুৰ তথ্য আৰু সম্পৰ্কসমূহৰে সলনি কৰক।</p></div>
-      <div class="tree-card family-tree" aria-label="সম্পাদনযোগ্য বংশবৃক্ষৰ নক্সা">
-        <div class="generation"><span>[আদি পুৰুষৰ নাম]</span></div>
-        <i></i>
-        <div class="generation"><span>[পুত্ৰ/কন্যা ১]</span><span>[পুত্ৰ/কন্যা ২]</span></div>
-        <i></i>
-        <div class="generation"><span>[প্ৰজন্ম ৩]</span><span>[প্ৰজন্ম ৩]</span><span>[প্ৰজন্ম ৩]</span></div>
+    <section class="page-banner" aria-labelledby="page-title"><div class="container"><p class="eyebrow">বংশাৱলী</p><h1 id="page-title">আমাৰ বংশবৃক্ষ</h1><p>নাম বিচাৰি পৰিয়ালৰ সদস্য, পিতৃ-মাতৃ, সঙ্গী আৰু সন্তানৰ সম্পৰ্ক চাওক।</p></div></section>
+    <section class="section container family-directory" aria-labelledby="directory-title">
+      <div class="section-heading centered"><p class="eyebrow">পৰিয়ালৰ তথ্য</p><h2 id="directory-title">সদস্য অনুসন্ধান</h2><p id="member-count">বংশাৱলীৰ তথ্য লোড কৰা হৈছে…</p></div>
+      <div class="search-box"><label for="member-search">নাম লিখি বিচাৰক</label><input id="member-search" type="search" placeholder="যেনে: প্ৰশান্ত, বৰুৱা…" autocomplete="off"></div>
+      <div class="directory-layout">
+        <section class="member-panel" aria-labelledby="member-list-title"><div class="panel-title"><h3 id="member-list-title">সদস্যসকল</h3><span id="result-count"></span></div><div id="family-list" class="family-list" aria-live="polite"></div><button id="more-results" class="more-results" type="button" hidden>আৰু নাম দেখুৱাওক</button></section>
+        <aside id="person-detail" class="person-detail" aria-live="polite"><div class="detail-empty"><span aria-hidden="true">⌕</span><h3>এজন সদস্য বাছনি কৰক</h3><p>বাওঁফালৰ তালিকাৰ নামত ক্লিক কৰিলে তেওঁৰ পৰিয়ালৰ সম্পৰ্ক দেখা যাব।</p></div></aside>
       </div>
+      <p class="privacy-note">টোকা: এই পৃষ্ঠাত GED file-ত থকা নাম আৰু পাৰিবাৰিক সম্পৰ্কহে দেখুওৱা হৈছে। কিবা ভুল থাকিলে পৰিয়ালৰ তথ্যদাতাক জনাব।</p>
     </section>
-    <section class="section section-tinted" aria-labelledby="notes-title"><div class="container split-section"><div><p class="eyebrow">তথ্য সংযোজন</p><h2 id="notes-title">আপোনাৰ তথ্য সংৰক্ষণ কৰক</h2><p>প্ৰতিজন সদস্যৰ নাম, জন্মস্থান, জন্ম তাৰিখ, সঙ্গীৰ নাম আৰু চমু পৰিচয় পৃথক তালিকাত ৰাখিলে পৰৱৰ্তী আপডেট সহজ হ’ব।</p></div><a class="button button-outline" href="index.html#contact">তথ্য প্ৰেৰণ কৰক</a></div></section>
   </main>
-  <footer class="site-footer"><div class="footer-bottom container"><p>© <span id="current-year">2026</span> শদিয়া চকীয়াল বৰুৱা পৰিয়াল। সৰ্বস্বত্ব সংৰক্ষিত।</p></div></footer>
-  <script>document.getElementById('current-year').textContent = new Date().getFullYear();</script>
+  <footer class="site-footer"><div class="container"><p class="future-domain">Digital Heritage Archive • Future Official Domain: <strong>baruahheritage.org</strong></p></div><div class="footer-bottom container"><p>© <span id="current-year">2026</span> শদিয়া চকীয়াল বৰুৱা পৰিয়াল। সৰ্বস্বত্ব সংৰক্ষিত।</p></div></footer>
+  <script src="family-data.js"></script>
+  <script>
+    (() => {
+      const data = window.FAMILY_DATA || { people: [], families: [] };
+      const people = new Map(data.people.map(person => [person.id, person]));
+      const families = new Map(data.families.map(family => [family.id, family]));
+      const search = document.querySelector('#member-search'); const list = document.querySelector('#family-list'); const detail = document.querySelector('#person-detail'); const resultCount = document.querySelector('#result-count'); const more = document.querySelector('#more-results');
+      let matches = data.people.slice().sort((a,b) => a.name.localeCompare(b.name, 'as')); let visible = 40;
+      document.querySelector('#member-count').textContent = `${data.people.length} জন সদস্য আৰু ${data.families.length}টা পাৰিবাৰিক শাখা`;
+      const button = (person, label) => { const el = document.createElement('button'); el.type = 'button'; el.className = 'relation-link'; el.textContent = label || person.name; el.addEventListener('click', () => showPerson(person.id)); return el; };
+      const section = (title, entries) => { if (!entries.length) return null; const block = document.createElement('section'); const heading = document.createElement('h4'); heading.textContent = title; block.append(heading); const links = document.createElement('div'); links.className = 'relation-links'; entries.forEach(entry => links.append(button(entry))); block.append(links); return block; };
+      function showPerson(id) {
+        const person = people.get(id); if (!person) return; detail.replaceChildren();
+        const heading = document.createElement('div'); heading.className = 'detail-heading'; const badge = document.createElement('span'); badge.className = `person-badge ${person.sex === 'F' ? 'female' : 'male'}`; badge.textContent = person.sex === 'F' ? 'ম' : person.sex === 'M' ? 'পু' : '•'; const title = document.createElement('div'); const h3 = document.createElement('h3'); h3.textContent = person.name; const p = document.createElement('p'); p.textContent = 'GED বংশাৱলী record'; title.append(h3,p); heading.append(badge,title); detail.append(heading);
+        const parentFamily = families.get(person.parentFamily); if (parentFamily) { const parents = [parentFamily.husband,parentFamily.wife].filter(Boolean).map(parentId => people.get(parentId)).filter(Boolean); const parentSection = section('পিতৃ-মাতৃ', parents); if (parentSection) detail.append(parentSection); const siblings = parentFamily.children.filter(childId => childId !== person.id).map(childId => people.get(childId)).filter(Boolean); const siblingSection = section('সহোদৰ ভাই-ভনী', siblings); if (siblingSection) detail.append(siblingSection); }
+        const spouses = []; const children = []; person.spouseFamilies.forEach(familyId => { const family = families.get(familyId); if (!family) return; const partnerId = family.husband === person.id ? family.wife : family.husband; if (partnerId && people.has(partnerId)) spouses.push(people.get(partnerId)); family.children.forEach(childId => { if (people.has(childId)) children.push(people.get(childId)); }); });
+        const spouseSection = section('সঙ্গী', spouses); if (spouseSection) detail.append(spouseSection); const childSection = section('সন্তান', children); if (childSection) detail.append(childSection);
+        if (!parentFamily && !spouses.length && !children.length) { const noData = document.createElement('p'); noData.className = 'no-relations'; noData.textContent = 'এই সদস্যৰ সম্পৰ্কৰ তথ্য GED file-ত পোৱা নগ’ল।'; detail.append(noData); }
+        document.querySelectorAll('.member-button').forEach(item => item.classList.toggle('selected', item.dataset.id === id));
+      }
+      function renderList() { list.replaceChildren(); const shown = matches.slice(0, visible); shown.forEach(person => { const item = document.createElement('button'); item.type = 'button'; item.className = 'member-button'; item.dataset.id = person.id; const name = document.createElement('strong'); name.textContent = person.name; const descriptor = document.createElement('span'); descriptor.textContent = person.sex === 'F' ? 'মহিলা সদস্য' : person.sex === 'M' ? 'পুৰুষ সদস্য' : 'পৰিয়ালৰ সদস্য'; item.append(name,descriptor); item.addEventListener('click', () => showPerson(person.id)); list.append(item); }); resultCount.textContent = `${matches.length} জন`; more.hidden = visible >= matches.length; more.textContent = `আৰু ${Math.min(40, matches.length - visible)} জন দেখুৱাওক`; }
+      search.addEventListener('input', () => { const query = search.value.trim().toLocaleLowerCase(); matches = data.people.filter(person => person.name.toLocaleLowerCase().includes(query)).sort((a,b) => a.name.localeCompare(b.name, 'as')); visible = 40; renderList(); });
+      more.addEventListener('click', () => { visible += 40; renderList(); }); renderList();
+      const toggle = document.querySelector('.nav-toggle'); const nav = document.querySelector('.site-nav'); toggle.addEventListener('click', () => { const open = toggle.getAttribute('aria-expanded') === 'true'; toggle.setAttribute('aria-expanded', String(!open)); nav.classList.toggle('is-open', !open); });
+      document.querySelector('#current-year').textContent = new Date().getFullYear();
+    })();
+  </script>
 </body>
 </html>
