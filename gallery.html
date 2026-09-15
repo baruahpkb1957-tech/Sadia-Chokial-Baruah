@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="as">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="শদিয়া চকীয়াল বৰুৱা পৰিয়ালৰ photo gallery।">
+  <title>Photo Gallery | শদিয়া চকীয়াল বৰুৱা পৰিয়াল</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Bengali:wght@400;500;600;700;800&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="gallery.css">
+</head>
+<body>
+  <header class="site-header"><div class="header-inner container">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true">BH</span><span><strong>শদিয়া চকীয়াল বৰুৱা পৰিয়াল</strong><small>Digital Heritage Archive</small></span></a>
+    <a class="gallery-home-link" href="index.html">Home</a>
+  </div></header>
+  <main>
+    <section class="page-banner"><div class="container"><p class="eyebrow">চিত্র-স্মৃতি</p><h1>Photo Gallery</h1><p>পৰিয়ালৰ সংৰক্ষিত আলোকচিত্ৰসমূহ প্ৰজন্ম অনুসৰি চাওক।</p></div></section>
+    <section class="section container" aria-labelledby="gallery-title">
+      <div class="section-heading centered"><p class="eyebrow">পৰিয়ালৰ ছবি</p><h2 id="gallery-title">প্ৰজন্ম অনুসৰি আলোকচিত্ৰ</h2><p id="photo-count">ছবি লোড কৰা হৈছে…</p></div>
+      <div class="gallery-filters" aria-label="Generation filter"><button class="filter active" data-generation="all">সকলো</button><button class="filter" data-generation="1">১ম</button><button class="filter" data-generation="2">২য়</button><button class="filter" data-generation="3">৩য়</button><button class="filter" data-generation="4">৪র্থ</button><button class="filter" data-generation="5">৫ম</button></div>
+      <div id="photo-grid" class="photo-grid" aria-live="polite"></div>
+    </section>
+  </main>
+  <footer class="site-footer"><div class="container"><p class="future-domain">Digital Heritage Archive • Future Official Domain: <strong>baruahheritage.org</strong></p></div></footer>
+  <script src="gallery-data.js"></script>
+  <script>
+    (() => {
+      const photos = window.GALLERY_DATA || [];
+      const grid = document.querySelector('#photo-grid');
+      const count = document.querySelector('#photo-count');
+      const buttons = document.querySelectorAll('.filter');
+      const render = generation => {
+        const shown = generation === 'all' ? photos : photos.filter(photo => String(photo.generation) === generation);
+        grid.replaceChildren();
+        shown.forEach(photo => {
+          const link = document.createElement('a'); link.href = photo.src; link.className = 'photo-card'; link.target = '_blank'; link.rel = 'noopener';
+          const image = document.createElement('img'); image.src = photo.src; image.alt = photo.label; image.loading = 'lazy'; image.decoding = 'async';
+          const caption = document.createElement('span'); caption.textContent = photo.label;
+          link.append(image, caption); grid.append(link);
+        });
+        count.textContent = `${shown.length}টা photo`;
+      };
+      buttons.forEach(button => button.addEventListener('click', () => { buttons.forEach(item => item.classList.toggle('active', item === button)); render(button.dataset.generation); }));
+      render('all');
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+.gallery-home-link { color:var(--clay); font-size:.9rem; font-weight:800; }
+.gallery-filters { display:flex; flex-wrap:wrap; justify-content:center; gap:.6rem; margin:0 auto 2rem; }
+.filter { padding:.56rem .85rem; color:var(--forest); background:#fffdf8; border:1px solid #dec490; border-radius:2px; font:inherit; font-weight:800; cursor:pointer; }
+.filter:hover,.filter.active { color:#fff; background:var(--forest); border-color:var(--forest); }
+.photo-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(190px,1fr)); gap:1rem; }
+.photo-card { display:block; overflow:hidden; color:var(--forest); background:#fffdf8; border:1px solid var(--line); box-shadow:0 5px 16px rgba(23,51,42,.08); }
+.photo-card img { display:block; width:100%; height:190px; object-fit:cover; background:#e6dfd1; }
+.photo-card span { display:block; padding:.65rem .75rem; font-size:.78rem; font-weight:700; }
+.photo-card:hover img { transform:scale(1.03); transition:transform .25s ease; }
+@media (max-width:520px) { .photo-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:.65rem; } .photo-card img { height:145px; } .photo-card span { padding:.5rem; font-size:.68rem; } }
