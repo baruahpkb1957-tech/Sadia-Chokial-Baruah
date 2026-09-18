@@ -36,7 +36,7 @@
         const shown = generation === 'all' ? photos : photos.filter(photo => String(photo.generation) === generation);
         grid.replaceChildren();
         shown.forEach(photo => {
-          const link = document.createElement('a'); link.href = photo.src; link.className = 'photo-card'; link.target = '_blank'; link.rel = 'noopener';
+          const link = document.createElement('a'); link.href = photo.personId ? `family-tree.html?person=${encodeURIComponent(photo.personId)}` : photo.src; link.className = 'photo-card'; link.target = '_blank'; link.rel = 'noopener';
           const image = document.createElement('img'); image.src = photo.src; image.alt = photo.label; image.loading = 'lazy'; image.decoding = 'async';
           const caption = document.createElement('span'); caption.textContent = photo.label;
           link.append(image, caption); grid.append(link);
