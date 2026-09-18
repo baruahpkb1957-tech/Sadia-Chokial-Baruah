@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="as">
 <head>
 <meta charset="UTF-8">
@@ -343,7 +344,9 @@ footer{
       function renderList() { list.replaceChildren(); const shown = matches.slice(0, visible); shown.forEach(person => { const item = document.createElement('button'); item.type = 'button'; item.className = 'member-button'; item.dataset.id = person.id; const name = document.createElement('strong'); name.textContent = person.name; const descriptor = document.createElement('span'); descriptor.textContent = person.sex === 'F' ? 'মহিলা সদস্য' : person.sex === 'M' ? 'পুৰুষ সদস্য' : 'পৰিয়ালৰ সদস্য'; item.append(name,descriptor); item.addEventListener('click', () => showPerson(person.id)); list.append(item); }); resultCount.textContent = `${matches.length} জন`; more.hidden = visible >= matches.length; more.textContent = `আৰু ${Math.min(40, matches.length - visible)} জন দেখুৱাওক`; }
       function renderGallery() { const seenPortraits = new Set(); const portraits = data.people.filter(person => person.photo && !seenPortraits.has(`${person.name}|${person.photo}`) && (seenPortraits.add(`${person.name}|${person.photo}`) || true)).sort((a,b) => a.name.localeCompare(b.name, 'as')); gallery.replaceChildren(); portraits.forEach(person => { const card = document.createElement('button'); card.type = 'button'; card.className = 'generation-photo-card'; const image = document.createElement('img'); image.src = person.photo; image.alt = `${person.name}ৰ আলোকচিত্ৰ`; image.loading = 'lazy'; const name = document.createElement('span'); name.textContent = person.name; card.append(image, name); card.addEventListener('click', () => { showPerson(person.id); document.querySelector('#directory-title').scrollIntoView({ behavior: 'smooth', block: 'start' }); }); gallery.append(card); }); galleryCount.textContent = `${portraits.length} জন সদস্যৰ আলোকচিত্ৰ`; }
       search.addEventListener('input', () => { const query = search.value.trim().toLocaleLowerCase(); matches = data.people.filter(person => person.name.toLocaleLowerCase().includes(query)).sort((a,b) => a.name.localeCompare(b.name, 'as')); visible = 40; renderList(); });
-      more.addEventListener('click', () => { visible += 40; renderList(); }); renderList(); renderGallery();
+      more.addEventListener('click', () => { visible += 40; renderList(); }); renderList(); renderGallery();const params = new URLSearchParams(window.location.search);
+const personId = params.get('person');
+if (personId) showPerson(personId);  
       const toggle = document.querySelector('.nav-toggle'); const nav = document.querySelector('.site-nav'); toggle.addEventListener('click', () => { const open = toggle.getAttribute('aria-expanded') === 'true'; toggle.setAttribute('aria-expanded', String(!open)); nav.classList.toggle('is-open', !open); });
       document.querySelector('#current-year').textContent = new Date().getFullYear();
     })();
