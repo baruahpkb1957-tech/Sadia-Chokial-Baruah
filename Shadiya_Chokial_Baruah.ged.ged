@@ -886,43 +886,6 @@
 1 CHAN
 2 DATE 4 JUL 2026
 3 TIME 08:31:25
-0 @I0073@ INDI
-1 NAME ইৰফান /চিদ্দিকি/
-2 TYPE birth
-2 GIVN ইৰফান
-2 SPFX চিদ্দিকি
-1 SEX M
-1 FAMC @F0192@
-2 PEDI birth
-1 FAMS @F0022@
-1 OBJE @O0017@
-1 CHAN
-2 DATE 1 JUL 2026
-3 TIME 20:57:16
-0 @I0074@ INDI
-1 NAME আমাইৰা /চিদ্দিকি/
-2 TYPE birth
-2 GIVN আমাইৰা
-2 SPFX চিদ্দিকি
-1 SEX F
-1 FAMC @F0022@
-2 PEDI birth
-1 OBJE @O0016@
-1 CHAN
-2 DATE 17 JUN 2026
-3 TIME 21:53:44
-0 @I0075@ INDI
-1 NAME জিদান /চিদ্দিকি/
-2 TYPE birth
-2 GIVN জিদান
-2 SPFX চিদ্দিকি
-1 SEX M
-1 FAMC @F0022@
-2 PEDI birth
-1 OBJE @O0019@
-1 CHAN
-2 DATE 17 JUN 2026
-3 TIME 21:56:42
 0 @I0076@ INDI
 1 NAME বিকাশ /দুগ্গল/
 2 TYPE birth
@@ -1025,9 +988,9 @@
 2 DATE 17 JUN 2026
 3 TIME 22:10:30
 0 @I0085@ INDI
-1 NAME আৰাণ /দত্ত বৰুৱা/
+1 NAME আৰিয়াণ /দত্ত বৰুৱা/
 2 TYPE birth
-2 GIVN আৰাণ
+2 GIVN আৰিয়াণ
 2 SPFX দত্ত বৰুৱা
 1 SEX M
 1 FAMC @F0026@
@@ -3741,19 +3704,6 @@
 1 CHAN
 2 DATE 23 JUN 2026
 3 TIME 22:16:44
-0 @I0346@ INDI
-1 NAME দিগন্ত /শৰ্ম্মা/
-2 TYPE birth
-2 GIVN দিগন্ত
-2 SPFX শৰ্ম্মা
-1 SEX M
-1 FAMC @F0119@
-2 PEDI birth
-1 FAMS @F0123@
-1 OBJE @O0360@
-1 CHAN
-2 DATE 23 JUN 2026
-3 TIME 22:22:56
 0 @I0347@ INDI
 1 NAME ভূৱন /বৰুৱা/ স্বৰ্গীয়
 2 TYPE birth
@@ -3780,17 +3730,6 @@
 1 CHAN
 2 DATE 25 JUN 2026
 3 TIME 07:09:23
-0 @I0353@ INDI
-1 NAME আস্থা /শৰ্ম্মা/
-2 TYPE birth
-2 GIVN আস্থা
-2 SPFX শৰ্ম্মা
-1 SEX F
-1 FAMS @F0123@
-1 OBJE @O0361@
-1 CHAN
-2 DATE 23 JUN 2026
-3 TIME 22:23:11
 0 @I0365@ INDI
 1 NAME নিৰন্জনৰ পৰিবাৰ /ৰাজখোৱা/
 2 TYPE birth
@@ -3814,7 +3753,7 @@
 2 DATE 4 JUL 2026
 3 TIME 08:08:54
 0 @I0368@ INDI
-1 NAME প্ৰফুল্ল /বৰুৱা/ স্বৰ্গীয়
+1 NAME প্ৰফুল্ল কুমাৰ /বৰুৱা/ স্বৰ্গীয়
 2 TYPE birth
 2 GIVN প্ৰফুল্ল
 2 SPFX বৰুৱা
@@ -3822,8 +3761,6 @@
 1 SEX M
 1 BIRT Y
 1 FAMS @F0181@
-1 FAMS @F0183@
-1 FAMS @F0185@
 1 OBJE @O0373@
 1 CHAN
 2 DATE 29 JUN 2026
