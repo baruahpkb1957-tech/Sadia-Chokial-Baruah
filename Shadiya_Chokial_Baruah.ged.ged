@@ -3932,14 +3932,12 @@
 2 DATE 27 JUN 2026
 3 TIME 08:37:48
 0 @I0534@ INDI
-1 NAME স্নেহলতা /বৰুৱা/
+1 NAME নিকুন্জলতা /বৰুৱা/
 2 TYPE birth
-2 GIVN স্নেহলতা
+2 GIVN নিকুন্জলতা
 2 SPFX বৰুৱা
 1 SEX F
 1 FAMS @F0181@
-1 FAMS @F0183@
-1 FAMS @F0185@
 1 OBJE @O0379@
 1 CHAN
 2 DATE 29 JUN 2026
