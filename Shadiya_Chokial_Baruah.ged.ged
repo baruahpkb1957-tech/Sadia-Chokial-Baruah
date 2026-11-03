@@ -457,6 +457,19 @@
 1 CHAN
 2 DATE 18 JUN 2026
 3 TIME 13:19:38
+0 @I0033@ INDI
+1 NAME অপৰাজিতা /হাজৰীকা/
+2 TYPE birth
+2 GIVN অপৰাজিতা
+2 SPFX হাজৰীকা
+1 SEX F
+1 FAMC @F0101@
+2 PEDI birth
+1 FAMS @F0033@
+1 OBJE @O0011@
+1 CHAN
+2 DATE 18 JUN 2026
+3 TIME 10:56:22
 0 @I0034@ INDI
 1 NAME অনিমেষ /কাকতী/
 2 TYPE birth
